@@ -1,0 +1,22 @@
+# Python-related
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env/
+
+# Log files
+logs/
+*.log
+
+# Compiled Python files
+*.pyc
+
+# IDE-related files
+.idea/
+.vscode/
+
+# PostgreSQL data
+*.sql
+
