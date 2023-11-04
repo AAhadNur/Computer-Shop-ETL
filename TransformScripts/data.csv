@@ -1,0 +1,456 @@
+Model,Brand,Regular Price (BDT),Special Price (BDT),Discount (BDT),Processor Brand,Processor Model,Processor Frequency (GHz),RAM (GB),RAM Type,Storage,Display Size (inch),Display Type,Graphics Model,Battery Type,Battery Capacity (WHr),Number of Reviews
+Huawei MateBook D 15,Huawei,65100,60500,4600,Intel,Core i3 1115G4,4,8,DDR4,256GB SSD,15,FHD IPS LED Display,Intel UHD Graphics,,42,0
+Acer Aspire 3 A315-59,Acer,62710,58000,4710,Intel,Core i3 1215U,4,8,DDR4,512GB SSD,15,FHD LED Display,Intel UHD Graphics,3 Cell Li-ion,40,14
+Dynabook Satellite Pro C40-G-13F,Dynabook,33420,31000,2420,Intel,Celeron Dual Core 5205U,1,4,DDR4,256GB SSD,14,HD LED,Intel UHD Graphics,2 Cell Lithium Ion,45,10
+HP 15s-fq5486TU,HP,61090,56500,4590,Intel,Core i3 1215U,4,4,DDR4,256GB SSD,15,FHD LED Display,Intel UHD Graphics,,,1
+HP 15s-du3611TU,HP,61090,56500,4590,Intel,Core i3 1125G4,3,4,DDR4,1TB HDD,15,FHD LED Display,Intel UHD Graphics,3 Cell Li-ion,41,2
+Asus VivoBook 15 X1502ZA,Asus,69120,63900,5220,Intel,Core i3 1215U,4,4,DDR4,256GB SSD,15,FHD LED Display,Intel UHD Graphics,3 Cell Li-ion,42,13
+Asus VivoBook 15 X1500EA,Asus,67810,62800,5010,Intel,Core i3 1115G4,4,8,DDR4,1TB HDD,15,Full HD Display,Intel UHD Graphics,2 Cell Li-ion,37,0
+HP 15s-eq2618AU,Hp,60000,55500,4500,AMD,Ryzen 3 5300U,3,8,DDR4,512GB SSD,15,,AMD Radeon Graphics,3 Cell Li-Ion,41,11
+Acer Extensa 15 EX215-23-R2JD,Acer,59460,55000,4460,AMD,Ryzen 3 7320U,4,8,DDR5,256GB SSD,15,FHD LED Display,AMD Radeon 610M Graphics,3 Cell Li-Ion,40,10
+Asus X515EA,Asus,56100,51900,4200,Intel,Core i3 1115G4,4,4,DDR4,1TB HDD,15,FHD,Intel UHD Graphics,2 Cell Li-ion,37,19
+Huawei MateBook B3-520,Huawei,64670,0,64670,Intel,Core i3 1115G4,4,8,LPDDR4x,256GB SSD,15,FHD,Intel UHD Graphics,,42,0
+Lenovo IdeaPad 1 15ADA7,Lenovo,53930,49900,4030,AMD,Ryzen 3 3250U,3,8,DDR4,512GB SSD,15,FHD,AMD Radeon Graphics,3 Cell Li-Polymer,42,2
+Asus D415DA,Asus,54580,50500,4080,AMD,Ryzen 3 3250U,3,4,DDR4,1TB HDD,14,HD LED,AMD Radeon Graphics,2 Cell Li-ion,37,1
+Asus M515DA,Asus,54580,50500,4080,AMD,Ryzen 3 3250U,3,4,DDR4,1TB HDD,15,HD LED,AMD Radeon Graphics,2 Cell Li-ion,37,0
+HP 15s-eq1578AU,HP,52840,48900,3940,AMD,Athlon Silver 3050U,3,8,DDR4,256GB SSD,15,FHD LED Display,AMD Radeon Graphics,,,14
+Dynabook Satellite Pro C40-G-11I,Dynabook,48720,45000,3720,Intel,Core i3 10110U,4,8,DDR4,256GB SSD,14,HD LED,Intel UHD Graphics,,45,3
+HP 15s-fq3617TU,HP,46980,43500,3480,Intel,Intel CDC N4500,1,4,DDR4,256GB SSD,15,FHD LED Display,Intel UHD Graphics,,,10
+Asus ExpertBook B1 B1400CEAE,Asus,69220,64000,5220,Intel,Core i3 1115G4,4,4,DDR4,256GB SSD,14,FHD,Intel UHD Graphics,3 Cell Li-ion,42,10
+Asus ExpertBook P1412CEA,Asus,61850,57000,4850,Intel,Core i3 1115G4,4,4,DDR4,1TB HDD,14,FHD,Intel UHD Graphics,2 Cell Li-ion,37,1
+Lenovo IdeaPad Slim 3i 15ITL6,Lenovo,95260,88000,7260,Intel,Core i7 1165G7,4,8,DDR4,512GB SSD,15,FHD LED Display,Intel Iris Xe Graphics,,45,11
+Acer TravelMate P214-53-72WA,Acer,93850,86900,6950,Intel,Core i7 1165G7,4,8,DDR4,512GB SSD,14,FHD IPS LED Display,Intel Iris Xe Graphics,3 Cell Lithium Ion (Li-Ion),48,0
+Lenovo IdeaPad Slim 3 15ABR8,Lenovo,95260,88000,7260,AMD,Ryzen 7 7730U,4,8,DDR4,512GB SSD,15,FHD LED Display,AMD Radeon Graphics,,47,11
+Dell Inspiron 15 3525,Dell,96020,88700,7320,AMD,Ryzen 7 5825U,4,8,DDR4,512GB SSD,15,FHD,AMD Radeon Graphics,,41,0
+Lenovo IdeaPad 3 15ALC6,Lenovo,86480,79900,6580,AMD,Ryzen 7 5700U,4,8,DDR4,512GB SSD,15,FHD IPS LED Display,AMD Radeon Graphics,,38,1
+Dell Inspiron 15 3515,Dell,55660,51500,4160,AMD,Ryzen 3 3250U,3,8,DDR4,256GB SSD,15,FHD,AMD Radeon Graphics,3 Cell Lithium Polymer,41,2
+Lenovo ThinkBook 14 G2 ITL,Lenovo,90270,83500,6770,Intel,Core i5 1135G7,4,8,DDR4,512GB SSD,14,FHD,Intel Iris Xe Graphics,4 Cell Li-Polymer,45,1
+Dell Latitude 15-3520,Dell,79530,73500,6030,Intel,Core i5 1135G7,4,8,DDR4,256GB SSD,15,HD LED,Intel Iris Xe Graphics,,41,11
+Asus ExpertBook B1 B1500CEAE,Asus,74650,69000,5650,Intel,Core i3 1115G4,4,8,DDR4,512GB SSD,15,FHD LED Display,Intel UHD Graphics,3 Cell Li-ion,42,11
+Asus ROG Zephyrus G15 GA503RM,Asus,239790,0,239790,AMD,Ryzen 7 6800HS,4,16,DDR5,1TB SSD,15,2K WQHD LED,Nvidia RTX 3060 Graphics,4 Cell Li-ion,90,1
+Microsoft Surface Laptop 5,Microsoft,214290,198000,16290,Intel,Core i7 1265U,4,16,LPDDR5x,512GB SSD,13,PixelSense MultiTouch Display,Intel Iris Xe Graphics,,45,9
+Microsoft Surface Laptop 4,Microsoft,169260,157000,12260,Intel,Core i7 1185G7,4,16,LPDDR4x,256GB SSD,15,PixelSense MultiTouch Display,Intel Iris Xe Graphics,,45,1
+Gigabyte Gaming G5 KE,Gigabyte,157870,146000,11870,Intel,Core i5 12500H,4,8,DDR4,512GB SSD,15,FHD,Nvidia RTX 3060 Max-Q Graphics,,54,0
+Lenovo IdeaPad Gaming 3i 15IHU,Lenovo,142680,132000,10680,Intel,Core i7 11370H,4,16,DDR4,1TB HDD+256GB SSD,15,FHD IPS LED Display,Nvidia GTX 1650 Graphics,3 Cell Li-Polymer,45,1
+Asus VivoBook Pro 15 K3500PA,Asus,122610,113500,9110,Intel,Core i7 11370H,4,8,DDR4,512GB SSD,15,FHD,Intel Iris Xe Graphics,3 Cell Li-ion,63,1
+Lenovo IdeaPad Slim 3i 15ITL,Lenovo,55340,51400,3940,Intel,Core i3 1115G4,4,4,DDR4,256GB SSD,15,FHD,Intel UHD Graphics,3 Cell Li-Polymer,38,0
+Dell Inspiron 15 3520,Dell,107420,99500,7920,Intel,Core i5 1235U,4,8,DDR4,512GB SSD,15,FHD LED Display,Nvidia MX550 Graphics,3 Cell Li-ion,41,9
+HP ProBook 450 G8,HP,75190,69500,5690,Intel,Core i3 1115G4,4,8,DDR4,256GB SSD,15,HD LED,Intel UHD Graphics,3 Cell Lithium-Ion Polymer (LiPo),45,12
+HP 15s-du4026TU,HP,117180,108500,8680,Intel,Core i7 1255U,4,8,DDR4,1TB HDD+256GB SSD,15,FHD LED Display,Intel Iris Xe Graphics,3 Cell Li-ion,41,10
+Lenovo IdeaPad 3 14ALC6,Lenovo,86480,79900,6580,AMD,Ryzen 7 5700U,4,8,DDR4,512GB SSD,14,FHD IPS LED Display,AMD Radeon Graphics,,38,1
+Asus VivoBook 15 K513EQ,Asus,107630,99500,8130,Intel,Core i5 1135G7,4,8,DDR4,512GB SSD,15,FHD OLED Display,Nvidia MX350 Graphics,3 Cell Li-ion,42,1
+Dell Inspiron 15 3511,Dell,105030,97000,8030,Intel,Core i7 1165G7,4,8,DDR4,512GB SSD,15,FHD,Nvidia MX350 Graphics,,41,0
+Lenovo IdeaPad 1 15AMN7,Lenovo,57290,53000,4290,AMD,Ryzen 3 7320U,4,8,LPDDR5,512GB SSD,15,FHD LED Display,AMD Radeon 610M Graphics,,42,10
+Microsoft Surface Laptop Studio,Microsoft,246840,228000,18840,Intel,Core i7 11370H,4,16,LPDDR4x,512GB SSD,14,PixelSense Flow MultiTouch Display,Nvidia RTX 3050 Ti Graphics,,58,1
+Acer Aspire 3 A315-24P,Acer,55550,51400,4150,AMD,Ryzen 3 7320U,4,8,DDR5,512GB SSD,15,FHD LED Display,AMD Radeon 610M Graphics,3 Cell Li-Ion,40,13
+Acer Extensa 15 EX215-54-34SE,Acer,50240,46500,3740,Intel,Core i3 1115G4,4,8,DDR4,1TB HDD,15,FHD LED Display,Intel UHD Graphics,2 Cell Lithium Ion (Li-Ion),36,22
+Asus X515MA,Asus,43730,40500,3230,Intel,CDC N4020,1,4,DDR4,1TB HDD,15,FHD,Intel UHD Graphics 600,2 Cell Li-ion,37,1
+Acer One 14 Z2-493,Acer,46220,42800,3420,AMD,Ryzen 3 3250U,3,4,DDR4,1TB HDD,14,HD LED,AMD Radeon Graphics,3 Cell Li-Ion Li-ion,36,1
+Lenovo IdeaPad Slim 3i 15IGL,Lenovo,38520,36000,2520,Intel,CDC N4020,2,4,DDR4,1TB HDD,15,HD LED,Intel UHD Graphics 600,,35,1
+Lenovo IdeaPad D330 10IGL,Lenovo,38630,35800,2830,Intel,CDC N4020,2,4,DDR4,128GB eMMC,10,HD IPS LED Display,Intel UHD Graphics 600,3 Cell Li-Polymer,39,4
+Dell Vostro 14 3400,Dell,51760,47900,3860,Intel,Core i3 1115G4,4,8,DDR4,1TB HDD,14,HD LED,Intel UHD Graphics,,42,11
+Lenovo V15 Gen 3,Lenovo,64020,59500,4520,Intel,Core i3 1215U,4,8,DDR4,512GB SSD,15,FHD LED Display,Intel UHD Graphics,,,5
+Acer Aspire 3 A315-510P,Acer,63690,58900,4790,Intel,Core i3 N305,3,8,LPDDR5,512GB SSD,15,FHD LED Display,Intel UHD Graphics,3 Cell Li-Ion,40,13
+MSI Modern 14 C12MO,MSI,62930,58500,4430,Intel,Core i3 1215U,4,16,DDR4,512GB SSD,14,FHD LED Display,Intel UHD Graphics,,39,0
+HP 250 G8,Hp,63260,58500,4760,Intel,Core i3 1115G4,4,8,DDR4,1TB HDD,15,FHD LED Display,Intel UHD Graphics,3 Cell Li-ion,41,9
+HP 15s-du3560TU,HP,63690,58900,4790,Intel,Core i3 1125G4,3,8,DDR4,1TB HDD,15,FHD LED Display,Intel UHD Graphics,3 Cell Li-ion,41,2
+Acer Aspire 3 A315-59-34TO,Acer,62710,58000,4710,Intel,Core i3 1215U,4,8,DDR4,512GB SSD,15,FHD,Intel UHD Graphics,3 Cell Li-Ion,40,9
+Acer Aspire 3 A315-59-390P,Acer,62710,58000,4710,Intel,Core i3 1215U,4,8,DDR4,512GB SSD,15,FHD LED Display,Intel UHD Graphics,3 Cell Li-Ion,40,9
+HP 240 G8,HP,63800,59000,4800,Intel,Core i3 1115G4,4,8,DDR4,1TB HDD,14,FHD LED Display,Intel UHD Graphics,3 Cell Li-ion,41,3
+Acer Aspire 3 A315-59-39P4,Acer,62710,58000,4710,Intel,Core i3 1215U,4,8,DDR4,512GB SSD,15,FHD,Intel UHD Graphics,3 Cell Li-Ion,40,11
+Asus ExpertBook P2451FA,Asus,61630,57000,4630,Intel,Core i3 10110U,4,4,DDR4,1TB HDD,14,FHD,Intel UHD Graphics,3 Cell Li-ion,48,1
+Lenovo IdeaPad Slim 3i 14IAU7,Lenovo,61090,56500,4590,Intel,Core i3 1215U,4,8,DDR4,256GB SSD,14,FHD LED Display,Intel UHD Graphics,,45,8
+MSI Modern 14 C11M,MSI,59460,55000,4460,Intel,Core i3 1115G4,4,8,DDR4,512GB SSD,14,FHD LED Display,Intel UHD Graphics,,39,11
+Dynabook Satellite Pro C40-G-109,Dynabook,32010,29600,2410,Intel,Celeron Dual Core 5205U,1,4,DDR4,128GB SSD,14,HD LED,Intel UHD Graphics,2 Cell Lithium Ion,45,4
+Asus ExpertBook P1 P1512CEA,Asus,61630,57000,4630,Intel,Core i3 1115G4,4,4,DDR4,1TB HDD,15,FHD,Intel UHD Graphics,2 Cell Li-ion,37,11
+Lenovo IdeaPad Slim 3i 14ITL6,Lenovo,103400,95500,7900,Intel,Core i7 1165G7,4,8,DDR4,512GB SSD,14,FHD Antiglare LED,Intel Iris Xe Graphics,,45,1
+Apple MacBook Pro (Late 2021),Apple,518630,0,518630,Apple,Apple M1 Max Chip,,64,Unmentioned,4TB SSD,16,Liquid Retina XDR Display,Apple 32-Core GPU,,100,4
+Acer TravelMate P214-53G,Acer,99280,92000,7280,Intel,Core i7 1165G7,4,8,DDR4,512GB SSD,14,FHD IPS LED Display,Nvidia MX330 Graphics,,48,0
+HP Pavilion 15-eg2109TU,HP,98520,91000,7520,Intel,Core i5 1240P,4,8,DDR4,512GB SSD,15,FHD LED Display,Intel Iris Xe Graphics,3 Cell Li-ion,41,10
+Asus VivoBook 15 K513EA,Asus,73020,67500,5520,Intel,Core i3 1115G4,4,4,DDR4,512GB SSD,15,FHD OLED Display,Intel UHD Graphics,3 Cell Li-ion,42,0
+HP 15s-fq5786TU,HP,69980,64700,5280,Intel,Core i3 1215U,4,8,DDR4,512GB SSD,15,FHD LED Display,Intel UHD Graphics,3 Cell Li-ion,41,11
+MSI Modern 15 A11MU,MSI,96890,89500,7390,Intel,Core i7 1195G7,5,8,DDR4,512GB SSD,15,FHD IPS LED Display,Intel Iris Xe Graphics,3 Cell Li Polymer,53,9
+ASUS Vivobook 15 X1504VA,Asus,76600,70800,5800,Intel,Core i3 1315U,4,8,DDR4,256GB SSD,15,FHD LED Display,Intel UHD Graphics,3 Cell Li-Ion,42,12
+Lenovo IdeaPad Slim 3i 14IRU8,Lenovo,76280,70500,5780,Intel,Core i3 1305U,4,8,DDR5,512GB SSD,14,FHD LED Display,Intel UHD Graphics,,47,9
+Asus VivoBook S15 S513EA,Asus,75410,69800,5610,Intel,Core i3 1115G4,4,8,DDR4,512GB SSD,15,FHD OLED Display,Intel UHD Graphics,3 Cell Li-ion,42,2
+HP 15s-fq4786TU,Hp,77040,71300,5740,Intel,Core i5 1155G7,4,8,DDR4,512GB SSD,15,FHD LED Display,Intel Iris Xe Graphics,3 Cell Li-Ion,41,10
+Dell Latitude 14-3420,Dell,86260,80000,6260,Intel,Core i5 1145G7,4,8,DDR4,512GB SSD,14,HD LED,Intel Iris Xe Graphics,,41,9
+Asus VivoBook 15 M1502IA,Asus,76820,71000,5820,AMD,Ryzen 5 4600H,4,8,DDR4,512GB SSD,15,FHD LED Display,AMD Radeon Graphics,3 Cell Li-ion,42,0
+HP 14s-dq5110TU,HP,84410,78000,6410,Intel,Core i5 1235U,4,8,DDR4,512GB SSD,14,FHD LED Display,Intel Iris Xe Graphics,3 Cell Li-ion,41,12
+Huawei MateBook B3-420,Huawei,82240,76000,6240,Intel,Core i5 1135G7,4,8,DDR4,512GB SSD,14,FHD IPS LED Display,Intel Iris Xe Graphics,,56,0
+Acer Aspire 3 A315-59-50J9,Acer,80070,74000,6070,Intel,Core i5 1235U,4,8,DDR4,512GB SSD,15,FHD,Intel Iris Xe Graphics,3 Cell Li-ion,40,10
+Asus VivoBook 15 M1505YA,Asus,96350,89000,7350,AMD,Ryzen 5 7530U,4,8,DDR4,512GB SSD,15,FHD OLED Display,AMD Radeon Graphics,3 Cell Li-ion,50,12
+Asus ExpertBook B3 Flip B3402FEA,Asus,95810,88500,7310,Intel,Core i5 1135G7,4,8,DDR4,512GB SSD,14,FHD LED Display,Intel Iris Xe Graphics,3 Cell Li-ion,50,13
+Acer Aspire 7 A715-42G-R2NE,Acer,93090,86000,7090,AMD,Ryzen 5 5500U,4,8,DDR4,512GB SSD,15,FHD IPS LED Display,Nvidia GTX 1650 Graphics,3 Cell Lithium Ion (Li-Ion),48,2
+Asus VivoBook 15 OLED X1505ZA,Asus,81160,75000,6160,Intel,Core i3 1215U,4,8,DDR4,512GB SSD,15,FHD OLED Display,Intel UHD Graphics,3 Cell Li-Ion,50,9
+,,95810,88500,7310,,,,,,,,,,,,13
+Dell Vostro 15 3510,Dell,90920,84000,6920,Intel,Core i5 1135G7,4,8,DDR4,512GB SSD,15,FHD LED Display,Nvidia MX330 Graphics,,41,0
+HP 15s-eq2335AU,HP,90820,83900,6920,AMD,Ryzen 7 5700U,4,8,DDR4,512GB SSD,15,FHD LED Display,AMD Radeon Graphics,3 Cell Li-ion,41,1
+Asus VivoBook 15X OLED X1503ZA,Asus,106110,98000,8110,Intel,Core i5 12500H,4,8,DDR4,512GB SSD,15,FHD OLED Display,Intel Iris Xe Graphics,3 Cell Li-ion,70,10
+Asus VivoBook Flip 14 TM420UA,Asus,104700,97000,7700,AMD,Ryzen 7 5700U,4,8,DDR4,512GB SSD,14,FHD LED Display,AMD Radeon Graphics,3 Cell Li-ion,42,12
+Asus VivoBook 15X K3504ZA,Asus,96020,89000,7020,Intel,Core i5 1235U,4,8,DDR4,512GB SSD,15,FHD LED Display,Intel Iris Xe Graphics,3 Cell Li-Ion,42,10
+Acer Aspire 5 A515-57G,Acer,103400,95500,7900,Intel,Core i5 1240P,4,8,DDR4,512GB SSD,15,FHD LED Display,Nvidia RTX 2050 Graphics,3 Cell Li-Ion,50,1
+Asus ZenBook 14 UM425UA,Asus,101230,93500,7730,AMD,Ryzen 5 5500U,4,8,LPDDR4x,512GB SSD,14,FHD,AMD Radeon Graphics,4 Cell Li-ion,67,1
+Acer Aspire 5 5M-A515-58GM,Acer,101770,94000,7770,Intel,Core i5 1335U,4,8,DDR4,512GB SSD,15,FHD,Nvidia RTX 2050 Graphics,3 Cell Li-ion,50,10
+Lenovo IdeaPad FLEX 5 14ALC7,Lenovo,98740,91500,7240,AMD,Ryzen 5 5500U,4,16,LPDDR4x,512GB SSD,14,2K WUXGA LED Display,AMD Radeon Graphics,,52,9
+MSI Modern 15 B13M,MSI,99060,91500,7560,Intel,Core i5 1335U,4,16,DDR4,512GB SSD,15,FHD LED Display,Intel Iris Xe Graphics,,39,19
+Lenovo ThinkBook 15 G2 ITL,Lenovo,98300,90900,7400,Intel,Core i5 1135G7,4,8,DDR4,512GB SSD,15,FHD,Intel Iris Xe Graphics,,45,0
+Asus ExpertBook B5 B5302CEA,Asus,103080,95000,8080,Intel,Core i5 1135G7,4,8,DDR4,512GB SSD,13,FHD LED Display,Intel Iris Xe Graphics,4 Cell Li Polymer,66,10
+Lenovo IdeaPad Slim 3i 15IAU7,Lenovo,89840,83000,6840,Intel,Core i5 1235U,4,8,DDR4,512GB SSD,15,FHD LED Display,Intel Iris Xe Graphics,,45,10
+MSI Modern 15 B12M,MSI,100690,93000,7690,Intel,Core i7 1255U,4,16,DDR4,512GB SSD,15,FHD LED Display,Intel Iris Xe Graphics,,39,11
+Microsoft Surface Go 3 (Wi-Fi),Microsoft,100690,93000,7690,Intel,Pentium Gold 6500Y,3,8,LPDDR3,128GB SSD,10,PixelSense MultiTouch Display,Intel UHD Graphics 615,,26,1
+Asus ExpertBook B1 B1400CBA,Asus,98520,91000,7520,Intel,Core i5 1235U,4,8,DDR4,512GB SSD,14,FHD LED Display,Intel Iris Xe Graphics,3 Cell Li-ion,42,11
+Asus ExpertBook B5 Flip B5402CEA,Asus,122390,113000,9390,Intel,Core i5 1155G7,4,8,DDR4,512GB SSD,14,FHD LED Display,Intel Iris Xe Graphics,3 Cell Li-ion,63,10
+HP Pavilion 15-eg2116TU,Hp,98520,91000,7520,Intel,Core i5 1240P,4,8,DDR4,512GB SSD,15,FHD LED Display,Intel Iris Xe Graphics,3 Cell Li-Ion,41,14
+HP Pavilion 15-eg2117TU,Hp,120980,112000,8980,Intel,Core i7 1260P,4,8,DDR4,512GB SSD,15,FHD LED Display,Intel Iris Xe Graphics,3 Cell Li-Ion,41,10
+Acer Aspire 7 A715-76G-57W7,Acer,119130,110000,9130,Intel,Core i5 12450H,4,8,DDR4,512GB SSD,15,FHD LED Display,Nvidia RTX 3050 Graphics,3 Cell Li-Ion,50,10
+Apple MacBook Air (Late 2020),Apple,115010,106000,9010,Apple,Apple M1 Chip,,8,Unmentioned,256GB SSD,13,Retina,Apple 7-core GPU,,49,3
+Microsoft Surface Go 3,Microsoft,112840,105000,7840,Intel,Core i3 10100Y,3,8,Unmentioned,128GB SSD,10,PixelSense MultiTouch Display,Intel UHD Graphics 615,,,11
+Dell Inspiron 15-7591,Dell,88970,82000,6970,Intel,Core i7 9750H,4,8,DDR4,256GB SSD,15,FHD,Nvidia GTX 1050 Graphics,3 Cell lithium-ion,56,2
+Apple MacBook Air (2022),Apple,156780,145000,11780,Apple,Apple M2 Chip,,8,Unmentioned,256GB SSD,13,Retina,Apple 8-core GPU,,52,2
+Asus VivoBook 16X OLED M1603QA,Asus,116960,108000,8960,AMD,Ryzen 5 5600H,4,8,DDR4,512GB SSD,16,4K WQUXGA OLED Display,AMD Radeon Graphics,3 Cell Li-ion,70,9
+Lenovo IdeaPad Gaming 3i 16IAH7,Lenovo,155160,144000,11160,Intel,Core i5 12450H,4,16,DDR4,512GB SSD,16,2K WUXGA LED Display,Nvidia RTX 3050 Graphics,,71,25
+Lenovo IdeaPad Gaming 3 15ARH7,Lenovo,150270,139000,11270,AMD,Ryzen 5 7535HS,4,8,DDR5,512GB SSD,15,FHD LED Display,Nvidia RTX GDDR6 Graphics,,60,10
+MSI GF63 Thin 11UC,MSI,117180,108500,8680,Intel,Core i5 11400H,4,8,DDR4,512GB SSD,15,FHD IPS,Nvidia RTX 3050 Max-Q Graphics,,51,1
+Gigabyte Gaming G5 KF,Gigabyte,149190,138000,11190,Intel,Core i5 12500H,4,8,DDR4,512GB SSD,15,FHD LED Display,Nvidia RTX 4060 Graphics,,54,10
+Asus ZenBook 14 Flip OLED UP5401EA,Asus,144310,135000,9310,Intel,Core i5 1135G7,4,8,LPDDR4x,512GB SSD,14,2.8K OLED WQHD,Intel Iris Xe Graphics,3 Cell Li-ion,63,1
+MSI Modern 14 C13M,MSI,112840,104500,8340,Intel,Core i7 1355U,5,16,DDR4,512GB SSD,14,FHD LED Display,Intel Iris Xe Graphics,,39,11
+Dell Vostro 16 5620,Dell,141590,131000,10590,Intel,Core i5 1240P,4,16,DDR4,512GB SSD,16,FHD+ LED Display,Intel Iris Xe Graphics,4 Cell Li-ion Polymer,54,6
+Asus VivoBook 15X OLED K3504VA,Asus,140510,130500,10010,Intel,Core i7 1360P,5,16,DDR4,512GB SSD,15,FHD OLED Display,Intel Iris Xe Graphics,3 Cell Li-Ion,50,9
+Asus TUF Dash F15 FX517ZC,Asus,150270,139000,11270,Intel,Core i5 12450H,4,8,DDR5,512GB SSD,15,FHD LED Display,Nvidia RTX 3050 Graphics,4 Cell Lithium Ion (Li-Ion),76,15
+Gigabyte AORUS 15 9MF,Gigabyte,173060,160000,13060,Intel,Core i5 12500H,4,8,DDR4,512GB SSD,15,FHD LED Display,Nvidia RTX 4050 Graphics,,99,10
+Asus Zenbook 14 Flip OLED UP3404VA,Asus,171970,159000,12970,Intel,Core i5 1340P,4,16,LPDDR5,512GB SSD,14,2.8K OLED WQHD,Intel Iris Xe Graphics,4 Cell Li-ion,75,12
+Asus ZenBook Duo UX482EAR,Asus,148430,137000,11430,Intel,Core i7 1195G7,5,16,LPDDR4x,512GB,14,FHD,Intel Iris Xe Graphics,4 Cell Li-ion,70,0
+Asus VivoBook Pro 15 M3500QC,Asus,142680,132000,10680,AMD,Ryzen 5 5600H,4,16,DDR4,512GB SSD,15,FHD,Nvidia RTX 3050 Graphics,3 Cell Li-ion,50,1
+MSI Cyborg 15 A12VF,MSI,171970,158900,13070,Intel,Core i7 12650H,4,16,DDR5,512GB SSD,15,FHD LED Display,Nvidia RTX 4060 Graphics,,53,1
+Apple MacBook Pro (2022),Apple,167630,155000,12630,Apple,Apple M2 Chip,,8,Unmentioned,256GB SSD,13,Retina,Apple 10-core GPU,,58,2
+Asus TUF Gaming A15 FA507RE,Asus,166550,153900,12650,AMD,Ryzen 7 6800H,4,16,DDR5,512GB SSD,15,FHD,Nvidia RTX 3050 Ti Graphics,4 Cell Li-ion,90,1
+Asus ExpertBook B5 Flip B5402FEA,Asus,161450,149000,12450,Intel,Core i7 1195G7,5,16,DDR4,512GB SSD,14,FHD LED Display,Intel Iris Xe Graphics,3 Cell Li-ion,63,0
+Asus VivoBook 16X OLED K3605ZF,Asus,160040,148000,12040,Intel,Core i5 12450H,4,16,DDR4,512GB SSD,16,3.2K OLED Display,Nvidia RTX 2050 Graphics,3 Cell Li-ion,63,0
+Asus ExpertBook B5 Flip B5302FEA,Asus,159280,147000,12280,Intel,Core i7 1165G7,4,16,DDR4,512GB SSD,13,FHD LED Display,Intel Iris Xe Graphics,4 Cell Li-ion,66,0
+Lenovo IdeaPad Slim 5i 15IAL7,Lenovo,167090,155000,12090,Intel,Core i7 1255U,4,16,DDR4,512GB SSD,15,FHD LED Display,Nvidia MX550 Graphics,,76,23
+Asus ZenBook 14X OLED UX5401EA,Asus,168180,157000,11180,Intel,Core i7 1165G7,4,16,LPDDR4x,512GB SSD,14,2.8K OLED WQHD,Intel Iris Xe Graphics,3 Cell Li-ion,63,1
+Gigabyte Gaming G5 MF,Gigabyte,140510,130000,10510,Intel,Core i5 12500H,4,8,DDR4,512GB SSD,15,FHD LED Display,Nvidia RTX 4050 Graphics,,54,10
+Apple MacBook Air (2023),Apple,182820,169000,13820,Apple,Apple M2 Chip,,8,Unmentioned,256GB SSD,15,Liquid Retina,Apple 10-core GPU,,66,10
+Asus ROG Strix G15 G513IM,Asus,197250,0,197250,AMD,Ryzen 7 4800H,4,16,DDR4,512GB SSD,15,2.5K QHD LED,Nvidia RTX 3060 Graphics,4 Cell Li-ion,90,1
+Summit E16,MSI,199100,183900,15200,Intel,Core i7 1360P,5,16,LPDDR5,1TB SSD,16,FHD+ LED Display,Intel Iris Xe Graphics,,81,13
+Asus TUF Gaming A15 FA507RM,Asus,196390,181900,14490,AMD,Ryzen 7 6800H,4,16,DDR5,512GB SSD,15,FHD LED Display,Nvidia RTX 3060 Graphics,4 Cell Li-ion,90,13
+Lenovo Yoga Slim 7i Carbon 13ITL5,Lenovo,190960,177000,13960,Intel,Core i7 1165G7,4,16,DDR4,1TB SSD,13,QHD IPS LED,Intel Iris Xe Graphics,,50,0
+HP Envy 15-ep1890TX,HP,200510,185000,15510,Intel,Core i7 11800H,4,16,DDR4,1TB SSD,15,FHD IPS LED Display,Nvidia RTX 3050 Ti Graphics,6 Cell Li-ion polymer,83,1
+ZenBook Duo,Asus,187710,174000,13710,Intel,Core i7 1165G7,4,16,LPDDR4x,512GB SSD,14,FHD IPS LED Display,Intel Iris Xe Graphics,4 Cell Li-ion,70,1
+Asus VivoBook Pro 16X M7600QE,Asus,188250,174000,14250,AMD,Ryzen 7 5800H,4,16,DDR4,512GB SSD,16,4K WQUXGA OLED,Nvidia RTX 3050 Ti Graphics,6 Cell Li-ion,96,1
+Microsoft Surface Pro 9,Microsoft,182820,169000,13820,Intel,Core i7 1265U,4,16,LPDDR5,512GB SSD,13,PixelSense Flow MultiTouch Display,Integrated,,47,10
+Microsoft Surface Pro 9 (Wi-Fi),Microsoft,182820,169000,13820,Intel,Core i7 1265U,4,16,LPDDR5,256GB SSD,13,PixelSense Flow MultiTouch Display,Intel Iris Xe Graphics,,46,10
+MSI Cyborg 15 A12VE,MSI,139970,129500,10470,Intel,Core i5 12450H,4,16,DDR5,512GB SSD,15,FHD LED Display,Nvidia RTX 4050 Graphics,,53,10
+Asus TUF Gaming A15 FA506QM,Asus,190420,0,190420,AMD,Ryzen 7 5800H,4,16,DDR4,512GB SSD,15,FHD LED Display,Nvidia RTX 3060 Graphics,3 Cell Li-ion,90,13
+Asus ZenBook 14 UM3402YA,Asus,139420,129000,10420,AMD,Ryzen 7 5825U,4,16,LPDDR4x,512GB SSD,14,QHD+ WQXGA LED Display,AMD Radeon Graphics,4 Cell Li-Ion,75,7
+Lenovo IdeaPad Slim 5i Pro 16ITL-6,Lenovo,130740,121000,9740,Intel,Core i5 11300H,4,16,DDR4,512GB SSD,16,2.5K WQXGA IPS LED Display,Nvidia MX450 Graphics,4 Cell Li-Ion Li-Polymer,,1
+Lenovo Legion 5 Pro 16ARH7H,Lenovo,211030,195000,16030,AMD,Ryzen 7 6800H,4,16,DDR5,1TB SSD,16,2.5K QHD WQXGA Display,Nvidia RTX 3070 Graphics,,80,0
+Asus ZenBook S 13 OLED UX5304VA,Asus,205070,189900,15170,Intel,Core i7 1355U,5,16,LPDDR5,1TB SSD,13,2.8K OLED WQHD,Intel Iris Xe Graphics,4 Cell Li-ion,63,13
+Lenovo Legion 5i 15IAH7H,Lenovo,269080,249000,20080,Intel,Core i7 12700H,4,16,DDR5,512GB SSD,15,2.5K WQHD Display,Nvidia RTX 3070 Graphics,,80,25
+Apple MacBook Pro (2023),Apple,265280,245000,20280,Apple,Apple M2 Pro,,16,Unmentioned,512GB SSD,14,Liquid Retina XDR Display,Apple 16-core GPU,,70,13
+Asus ROG Zephyrus G15 GA503RW,Asus,252810,235000,17810,AMD,Ryzen 9 6900HS,4,32,DDR5,1TB SSD,15,2.5K WQHD Display,Nvidia RTX 3070 Ti Graphics,3 Cell Li-ion,90,10
+Lenovo Legion Slim 7i 16IAH7,Lenovo,275590,255000,20590,Intel,Core i7 12700H,4,16,DDR5,1TB SSD,16,2.5K QHD WQXGA Display,Nvidia RTX 3060 Graphics,,99,21
+MSI Creator Z16 HX Studio B13VFTO,MSI,395480,365000,30480,Intel,Core i7 13700HX,5,32,DDR5,2TB SSD,16,QHD+ LED Display,Nvidia RTX 4060 Graphics,,90,0
+Lenovo LOQ 15APH8,Lenovo,165460,153000,12460,AMD,Ryzen 7 7840HS,5,16,DDR5,512GB SSD,15,FHD LED Display,Nvidia RTX 4050 Graphics,,60,10
+MSI Stealth 16 Mercedes AMG A13VF,MSI,379210,349900,29310,Intel,Core i9 13900H,5,32,DDR5,1TB SSD,16,4K UHD+ OLED Display,Nvidia RTX 4060 Graphics,,99,10
+Asus ProArt StudioBook 16 H5600QR,Asus,359140,333000,26140,AMD,Ryzen 9 5900HX,4,32,DDR4,1TB SSD,16,4K WQUXGA OLED,Nvidia RTX 3070 Graphics,4 Cell Li-ion,90,0
+MSI Pulse 15 B13VFK,MSI,194220,179500,14720,Intel,Core i7 13700H,5,16,DDR5,512GB SSD,15,FHD LED Display,Nvidia RTX 4060 Graphics,,90,11
+Asus ZenBook Pro 14 OLED UX6404VV,Asus,329840,305000,24840,Intel,Core i9 13900H,5,16,DDR5,1TB SSD,14,2.8K OLED WQHD,Nvidia RTX 4060 Graphics,4 Cell Li-Ion,76,0
+Apple Macbook Pro (Early 2023),Apple,423150,390000,33150,Apple,Apple M2 Pro,,32,Unmentioned,1TB SSD,16,Liquid Retina XDR Display,Apple 19-core GPU,,100,8
+Apple MacBook Pro (Early 2023),Apple,692230,640000,52230,Apple,Apple M2 Max,,64,Unmentioned,4TB SSD,14,Liquid Retina XDR Display,Apple 38-core GPU,,70,10
+MSI Raider GE68 HX 13VG,MSI,428030,395000,33030,Intel,Core i9 13950HX,5,32,DDR5,2TB SSD,16,4K UHD+ LED Display,Nvidia RTX 4070 Graphics,,99,0
+Asus ProArt StudioBook 16 H5600QM,Asus,296210,275000,21210,AMD,Ryzen 7 5800H,4,16,DDR4,1TB SSD,16,4K WQUXGA OLED,Nvidia RTX 3060 Graphics,4 Cell Li-ion,90,0
+Acer Predator Helios 16 PH16-71-74MN,Acer,297290,274900,22390,Intel,Core i7 13700HX,5,32,DDR5,1TB SSD,16,,Nvidia RTX 4070 Graphics,4 Cell Lithium Ion,90,10
+Asus ZenBook Pro Duo 14 OLED UX8402ZE,Asus,291870,269990,21880,Intel,Core i7 12700H,4,16,LPDDR5,512GB SSD,14,2.8K OLED WQHD,Nvidia RTX 3050 Ti Graphics,4 Cell Li-ion,76,12
+Microsoft Surface Laptop Studio 2,Microsoft,286980,265000,21980,Intel,Core i7 13700H,5,16,Unmentioned,512GB SSD,14,PixelSense Flow MultiTouch Display,Intel Iris Xe Graphics,,56,9
+Asus ROG Strix G17 G713RM,Asus,240330,222000,18330,AMD,Ryzen 7 6800H,4,16,DDR5,512GB SSD,17,FHD IPS LED Display,Nvidia RTX 3060 Graphics,4 Cell Li-ion,90,1
+Acer Predator Helios 16 PH16-71-70L4,Acer,238590,219900,18690,Intel,Core i7 13700HX,5,16,DDR5,1TB SSD,16,2.5K QHD+ WQXGA Display,Nvidia RTX 4060 Graphics,4 Cell Lithium Ion (Li-Ion),90,9
+Acer Predator Helios 16 PH16-71-92RZ,Acer,389520,359900,29620,Intel,Core i9 13900HX,5,32,DDR5,1TB SSD,16,2.5K QHD+ WQXGA Display,Nvidia RTX 4080,4 Cell Li-Ion,90,10
+Asus ROG Strix G15 G513RM,Asus,229480,212000,17480,AMD,Ryzen 7 6800H,4,16,DDR5,512GB SSD,15,FHD IPS LED Display,Nvidia RTX 3060 Graphics,4 Cell Li-ion,90,1
+Asus ZenBook Pro Duo 14 OLED UX8402ZA,Asus,238700,224990,13710,Intel,Core i7 12700H,4,16,LPDDR5,1TB SSD,14,2.8K OLED WQHD,Intel Iris Xe Graphics,4 Cell Li-ion,76,11
+MSI Summit E13 Flip Evo A13MT,MSI,205610,189900,15710,Intel,Core i7 1360P,5,16,LPDDR5,1TB SSD,13,FHD+ LED Display,Intel Iris Xe Graphics,,70,9
+Lenovo Yoga Slim 7i Carbon 13IAP7,Lenovo,203980,189000,14980,Intel,Core i7 1260P,4,16,DDR5,1TB SSD,13,,Intel Iris Xe Graphics,,50,23
+Asus TUF Dash F15 FX517ZM,Asus,201270,186000,15270,Intel,Core i5 12450H,4,16,DDR5,512GB SSD,15,FHD LED Display,Nvidia RTX 3060 Graphics,4 Cell Li-ion,76,10
+Asus ZenBook Duo UX482EG,Asus,200180,185500,14680,Intel,Core i7 1165G7,4,16,LPDDR4x,512GB SSD,14,FHD,Nvidia MX450 Graphics,4 Cell Li-ion,70,1
+Lenovo ThinkPad L13 Gen 3,Lenovo,200180,185000,15180,Intel,Core i7 1255U,4,16,DDR4,512GB SSD,13,FHD LED Display,Intel Iris Xe Graphics,,,5
+Asus ExpertBook L2 Flip L2402FYA,Asus,111540,103000,8540,AMD,Ryzen 5 5625U,4,8,DDR4,512GB SSD,14,FHD LED Touch Display,AMD Radeon Graphics,3 Cell Li-ion,48,13
+MSI GF63 Thin 12UCX,MSI,107960,99900,8060,Intel,Core i5 12450H,4,8,DDR4,512GB SSD,15,FHD IPS LED Display,Nvidia RTX 2050 Graphics,,52,11
+Asus VivoBook S15 S513EQ,Asus,107630,99500,8130,Intel,Core i5 1135G7,4,8,DDR4,512GB SSD,15,FHD OLED Display,Nvidia MX350 Graphics,3 Cell Li-ion,42,1
+Lenovo ThinkPad L14,Lenovo,107200,99000,8200,Intel,Core i5 1145G7,4,8,DDR4,512GB SSD,14,HD,Intel Iris Xe Graphics,,45,0
+MSI Stealth 16 Mercedes AMG A13VG,MSI,433890,399900,33990,Intel,Core i9 13900H,5,32,DDR5,2TB SSD,16,4K UHD+ OLED Display,Nvidia RTX 4070 Graphics,,99,10
+Modern 15 A5M,MSI,87670,81000,6670,AMD,Ryzen 7 5700U,4,8,DDR4,512GB SSD,15,FHD IPS LED Display,AMD Radeon Graphics,,52,4
+HP 15s-eq3619AU,HP,79210,73200,6010,AMD,Ryzen 5 5625U,4,8,DDR4,512GB SSD,15,FHD IPS LED Display,AMD Radeon Graphics,3 Cell Li-ion,41,15
+Asus VivoBook 14 X1402ZA,Asus,77360,71500,5860,Intel,Core i3 1220P,4,8,DDR4,512GB SSD,14,FHD,Intel UHD Graphics,3 Cell Li-Ion,42,10
+Asus VivoBook Go 15 E1504FA,Asus,70310,65000,5310,AMD,Ryzen 3 7320U,4,8,LPDDR5,512GB SSD,15,FHD LED Display,AMD Radeon Graphics,3 Cell Li-ion,42,9
+Acer Aspire 3 A315-59-5031,Acer,80070,74000,6070,Intel,Core i5 1235U,4,8,DDR4,512GB SSD,15,FHD LED Display,Intel Iris Xe Graphics,3 Cell Li-ion,40,10
+Acer Aspire 5 5P-A515-58P,Acer,68680,63500,5180,Intel,Core i3 1305U,4,8,LPDDR5,512GB SSD,15,FHD LED Display,Intel UHD Graphics,3 Cell Li-ion,50,9
+Acer Aspire 3 A315-24P-R77Z,Acer,67270,62000,5270,AMD,Ryzen 5 7520U,4,8,DDR5,512GB SSD,15,FHD LED Display,AMD Radeon 610M Graphics,3 Cell Li-Polymer,40,14
+Acer Extensa 15 EX215-54-57SB,Acer,69220,64000,5220,Intel,Core i5 1135G7,4,8,DDR4,1TB HDD,15,FHD,Intel Iris Xe Graphics,2 Cell Lithium Ion (Li-Ion),36,1
+Acer Aspire 3 A315-59-57VA,Acer,80070,74000,6070,Intel,Core i5 1235U,4,8,DDR4,512GB SSD,15,FHD,Intel Iris Xe Graphics,3 Cell Li-ion,40,11
+ Prelude N50 Pro,Walton,44825,43750,1075,Intel,Pentium Silver N5030,1,8,DDR4,"256GB M.2 2280 SSD, SATA interface",14,IPS,Intel UHD Graphics 605,Embedded Polymer Smart Lithium-Ion battery pack,36,0
+ P1511CMA,Asus,39490,37500,1990,Intel ,Celeron Processor N4020 ,1,4,DDR4 ,1TB HDD,15,,Intel UHD Graphics 600,2-cell Li-ion (2S1P),37,0
+ Prelude N41 Pro,Walton,43945,42550,1395,Intel,Celeron N4120,1,8,DDR4,"256GB M.2 2280 SSD, SATA interface",14,IPS,Intel UHD Graphics 600,Embedded Polymer Smart Lithium-Ion battery pack,36,0
+ 15s-fq3617TU,HP,46980,46980,0,Intel,Celeron N4500 ,1,4,DDR4,256GB PCIe NVMe M.2 SSD,15,,Intel UHD Graphics,3-cell Li-ion,41,0
+ Vivobook E410MA,Asus,47740,45000,2740,Intel ,Celeron Processor N4020,1,4,DDR4 ,256GB  PCIEG3 SSD,14,LED ,Integrated Intel UHD,2 -Cell,37,0
+ E210MA,Asus,39050,37000,2050,Intel ,Celeron Processor N4020,1,4,DDR4 ,256GB  PCIEG3 SSD,11,LED ,Intel UHD Graphics 600,2 -Cell Li-ion,33,0
+ TravelMate TMB 311-31-C3CD,Acer,36850,34500,2350,,,,,, ,,,,,,0
+ IdeaPad Slim 3i,Lenovo,37950,35500,2450,Intel ,Celeron Processor N4020,1,4,DDR4,256GB SSD M.2 2242 PCIe 3.0x4 NVMe SSD,15,,Integrated Intel UHD Graphics 600,,45,0
+ Dynabook Satellite Pro C40-G-13F,Toshiba,33420,31000,2420,Intel,Celeron 5205U,1,4,DDR4,256GB M.2 SATA SSD,14,,Intel UHD Graphics,2 cell lithium-ion,45,0
+ IdeaPad D330 10IGL,Lenovo,38630,35800,2830,Intel ,Celeron N4020,1,4,DDR4 ,128GB eMMC 5.1 SSD,10,HD IPS LED Display,Intel UHD 600 Graphics,Li-Polymer,39,0
+ Chromebook 514 CB514-1W,Acer,65350,62000,3350,Intel,Core i3-1115G4,3,8,LPDDR4X,128GB M.2 NVME SSD,14,IPS,Intel Iris Xe Graphics,3-cell Li-ion,48,0
+  IdeaPad Flex 5 14ALC7,Lenovo,97000,91500,5500,AMD,Ryzen 5 5500U,2,16,LPDDR4x,512GB SSD,14,IPS,Integrated AMD Radeon,Li-Polymer,52,0
+ Prelude N40 Pro,Walton,40425,39750,675,Intel,Celeron N4020,1,8,DDR4,"256GB M.2 2280 SSD, SATA interface",14,IPS,Intel UHD Graphics 600,Embedded Polymer Smart Lithium-Ion battery pack,36,0
+ IdeaPad 3 15ALC6,Lenovo,85250,80500,4750,AMD,AMD Ryzen 7 5700U,1,16,LPDDR4x,512GB SSD,15,IPS,Integrated AMD Radeon,Li-Polymer,45,0
+ VivoBook 14 X415EA ,Asus,58500,56000,2500,Intel ,Core i3-1115G4,3,4,DDR4 ,256GB  PCIEG3 SSD,14, IPS-LEVEL,Intel UHD Graphics,2 cell Lithium-ion battery,37,0
+ Freedom A9,DOEL,32999,32999,0,AMD,A9-9425,3,4,DDR4,240GB SATAIII M.2 2280 SSD,14,,AMD Radeon R5 Graphics,Embedded Polymer Smart Lithium-Ion battery pack,7,0
+ VivoBook 15 X515EA ,Asus,56100,51900,4200,Intel ,Core i3-1115G4,3,4,DDR4 ,1TB  HDD ,15,IPS ,Intel UHD Graphics," 2S1P, 2-cell Li-ion",37,0
+ Dynabook Satellite Pro C40-G-11I,Toshiba,46550,45000,1550,Intel,Core i3 10110U,2,8,DDR4,256GB M.2 SATA SSD,14,,Intel UHD Graphics,2 cell lithium-ion,45,0
+ TravelMate TMP214-54,Acer,103400,98000,5400,Intel,Core i7-1255U,3,8,DDR4,512GB PCIe NVMe M.2 SSD,14,LED,Intel Iris Xe Graphics,,,0
+ VivoBook 15 X515JA,Asus,54790,51500,3290,Intel,Core i3-1005G1,1,4,DDR4,512GB NVMe PCIe,15,,Intel UHD Graphics,"2S1P, 2-cell Li-ion",37,0
+ Aspire 3 A315-24P,Acer,55550,51400,4150,AMD,Ryzen 3 7320U,2,8,DDR5,"512GB PCIe Gen4, 8 Gb/s SSD",15,TFT LCD,AMD Radeon,3-cell Lithium Ion (Li-Ion),40,0
+ Vostro 14 3400,Dell,52250,52250,0,Intel ,Core i3-1115G4 ,3,4,DDR4,1TB  SATA Hard Drive,14,,Intel UHD Graphics,3-Cell Integrated,42,0
+ VivoBook 15 M515DA,Asus,54580,50500,4080,AMD,Ryzen 3 3250U,2,4,DDR4,1TB HDD SATA III,15,,AMD Radeon Graphics,Li-ion,37,0
+ TravelMate TMP215-53,Acer,0,0,0,Intel,Core i3-1115G4,2,4,DDR4,1TB 2.5-inch 5400 RPM HDD + 128GB Nvme SSD SSD + HDD,15,LED,Intel Iris Xe Graphics,3-cell Li-ion,48,0
+ 15s-eq1578AU,HP,52840,52840,0,AMD ,AMD Ryzen 3050U,2,8,DDR4,256 GB  PCIe NVMe SSD,15,,AMD Radeon Graphics,3 Cell  Li-ion,41,0
+ IdeaPad 1 15ADA7,Lenovo,53930,49900,4030,AMD,Ryzen 3 3250U,2,8,DDR4,512GB  NVMe PCIe SSD,15,TN,AMD Radeon Graphics,3 Cell Li-ion,41,0
+ T10,DOEL,54449,49499,4950,Intel,Core i3 10110U,2,4,DDR4,512GB M.2 2280 SSD,14,,Intel UHD Graphics,Embedded 3 cells Smart Lithium-Ion,36,0
+ ExpertBook BR1100FKA,Asus,49500,47500,2000,Intel,Celeron N4500 Processor,1,4,DDR4,256GB NVMe PCIe,11,HD LED Touch Display,Intel UHD Graphics,3 Cell Li-ion,42,0
+ VivoBook 15 E510MA,Asus,49910,47000,2910,Intel ,Celeron Dual Core N4020 ,1,4,DDR4 ,512GB PCIe G3 SSD,15,,Intel UHD Graphics 600,3 Cell Li-ion Battery,42,0
+ IdeaPad Slim 3i 14ITL6 ,Lenovo,61600,57500,4100,Intel,Core i3-1115G4,3,8,DDR4,512GB SSD,14,LED,Intel UHD Graphics,,45,0
+ Tamarind MX311G,Walton,58190,57500,690,Intel,Core i3-1115G4,3,8,DDR4,"512GB M.2 2280, PCIe Gen3x4 SSD",14,IPS,Intel UHD Graphics,4 cells Smart Lithium-Ion,49,0
+ Latitude 3520,Dell,82240,76000,6240,Intel,Core i5-1135G7,2,8,DDR4 ,512GB SSD SSD,15,LED,Intel UHD Graphics,3 Cell ,42,0
+ Inspiron 15 3520,Dell,69770,64500,5270,Intel,Core i3-1215U,4,8,DDR4 ,512GB M.2 PCIe NVMe SSD,15,,Intel UHD Graphics,3-Cell Integrated,41,0
+ IdeaPad Slim 3i 14IAU7,Lenovo,60500,56500,4000,Intel,Core i3-1215U,3,8,DDR4,256GB SSD,14,TN,Intel UHD Graphics,,45,0
+ Inspiron 15 3525 ,Dell,63690,58900,4790,AMD,Ryzen 3 5425U,2,8,DDR4 ,256GB M.2 PCIe NVMe SSD,15,,AMD Radeon Graphics,3-Cell Battery (Integrated),41,0
+ V14,Lenovo,57750,57750,0,Intel ,Core i3-1115G4,3,4,DDR4 ,1TB + 256GB SSD SATA HDD + SSD,14,,Intel UHD Graphics,Integrated 2Cell Li-Polymer,38,0
+ VivoBook 15 D515DA,Asus,58090,55500,2590,AMD,Ryzen 3 3250U ,2,4,DDR4 ,512GB PCIe G3 SSD,15,,AMD Radeon VEGA3 Graphics,2-Cell  lithium-polymer Battery,37,0
+ Inspiron 14 7420 2 in 1,Dell,0,0,0,Intel ,Core i7-1255U,4,16,DDR4,512GB  M.2 PCIe NVMe SSD,14,LED,Nvidia MX550 Graphics,4-Cell Integrated battery,54,0
+ ExpertBook B1 B1500CEAE,Asus,63800,63800,0,Intel ,Core i3-1115G4 Processor,3,4,DDR4 ,1TB HDD + 256GB NVMe SSD Added SATA + SSD,15,LED,Intel UHD Graphics,3-cell Li-ion Battery,42,0
+ 15s-eq2618AU,HP,60000,55500,4500,AMD ,Ryzen 3 5300U,2,8,DDR4,512 GB  PCIe NVMe SSD,15,,AMD Radeon Graphics,3 Cell  Li-ion,41,0
+ Latitude 14 5420,Dell,0,0,0,Intel ,Core i5-1145G7,2,8,DDR4 ,512GB  M.2 PCIe NVMe SSD,14,,Intel Iris Xe Graphics,3 Cell  ExpressCharge Capable Battery,42,0
+ Latitude 3430,Dell,0,0,0,Intel,Core i5-1235U,4,8,DDR4 ,512GB M.2 PCIe NVMe SSD,14,LED,Intel UHD Graphics,3-Cell Integrated,41,0
+ 15s-fq5487TU,HP,64340,59500,4840,Intel,Core i3-1215U ,4,8,DDR4 ,256 GB  PCIe NVMe M.2 SSD,15,LED,Intel UHD Graphics,3-cell Li-ion,41,0
+ Passion BX310U,Walton,50450,49850,600,Intel,Core i3 10110U,2,8,DDR4,512GB SATAIII M.2 2280 SSD,15,,Intel UHD Graphics,3 cells Smart Lithium-Ion,36,0
+ Inspiron 15 3510,Dell,0,0,0,Intel, Celeron N4020,1,4,DDR4 ,1TB  SATA HDD,15,,Intel UHD Graphics 600,"3 Cell, Lithium-Polymer ",,1
+ Latitude 14 3420,Dell,97125,90500,6625,Intel ,Core i7-1165G7 ,2,8,DDR4 ,512GB M.2 PCIe NVMe SSD,14,,Intel Iris Xe Graphics,3 Cell ExpressCharge Capable ,41,0
+ Aspire 3 A315-59-39P4,Acer,62150,58000,4150,Intel,Core i3-1215U,3,8,DDR4,512GB NVMe PCIe,15,LED,Intel UHD Graphics,3-cell Lithium Ion (Li-Ion),40,0
+ Aspire 3 A315-510P,Acer,63690,58900,4790,Intel,Core i3-N305,3,8,LPDDR5,"512GB PCIe Gen3, 8 Gb/s up to 4 lanes, NVMe",15,TFT LCD,Intel UHD Graphics,3-cell Lithium Ion (Li-Ion),40,0
+ Extensa 15 EX215-54-57SB,Acer,69220,64000,5220,,,,,, ,,,,,,0
+ MateBook B3-520,HUAWEI,64670,59800,4870,Intel,Core i3-1115G4,3,8,LPDDR4X,256 GB NVMe PCIe SSD,15,IPS,Intel UHD Graphics,Lithium polymer,42,0
+ Inspiron 15 3511,Dell,0,0,0,Intel ,Core i5-1135G7,2,8,DDR4 ,512GB SSD,15,,Intel UHD Graphics,3-Cell Battery  Integrated,41,0
+ Latitude 15-3520,Dell,0,0,0,Intel,Core i3-1115G4,3,4,DDR4 ,1TB SATA HDD,15,LED,Intel UHD Graphics,3 Cell ,42,0
+ Aspire 5 5P-A515-58P,Acer,68680,63500,5180,Intel,Core i3-1305U,4,1,LPDDR5,512 GB SSD,15,IPS,Intel UHD Graphics,3-cell Li-ion,50,0
+ MateBook D15,HUAWEI,64600,64600,0,Intel,Intel Core i3-1115G4,2,8,DDR4,256GB NVMe PCle SSD,15,IPS,Intel UHD Graphics,,42,0
+ VivoBook 15 X1502ZA,Asus,68090,63900,4190,Intel,Core i3-1215U,4,4,DDR4,256GB PCIe NVMe M.2 SSD,15,FHD,Intel UHD Graphics,3-cell,42,0
+ Vostro 15 3500,Dell,0,0,0,Intel ,Core i3-1115G4 ,3,4,DDR4,1TB SATA HDD,15,,Intel UHD Graphics ,3-Cell ,42,2
+ VivoBook 15 X1500EA ,Asus,67810,62800,5010,Intel ,Core i3-1115G4,3,8,DDR4 ,512GB SSD NVMe PCIe,15,IPS ,Intel UHD Graphics," 2S1P, 2-cell Li-ion",37,0
+ VivoBook 14 X1402ZA,Asus,74540,69000,5540,Intel,Core i3 1220P,4,4,DDR4,512GB PCIe NVMe M.2 SSD,14,IPS,Intel UHD Graphics,3-cell,42,0
+ Latitude 9430 2-in-1,Dell,0,0,0,Intel,Core i7 1265U,4,16,DDR5,512GB   M.2 NVMe PCIe SSD,14,,Intel Iris Xe Graphics,"Polymer, 3-Cell",60,0
+ Dell XPS 13 Plus 9320,Dell,0,0,0,Intel ,Core i7-1260P,2,16,LPDDR5,512GB M.2 PCIe NVMe SSD,13,3.5K OLED Display,Intel Iris Xe Graphics,3-Cell Integrated battery,55,0
+ K14,Lenovo,67500,66500,1000,Intel,Core i3-1115G4,3,8,DDR4,512GB M.2 2242 PCIe TLC SSD,14,TN,Intel Iris Xe ,3Cell Li-Polymer,45,0
+ XPS 13 9315,Dell,0,0,0,Intel ,Core i7-1250U,1,16,LPDDR5,512GB  M.2 PCIe NVMe SSD,13,LED,Intel Iris Xe Graphics,3-Cell Integrated battery,51,0
+ XPS 15 9510,Dell,0,0,0,Intel ,Core i7-11800H,2,16,DDR4 ,1TB M.2 PCIe NVMe Solid State Drive,15,,NVIDIA GeForce RTX 3050 Ti ,6-Cell Battery (Integrated),86,0
+ Vivobook S15 S513EA,Asus,71390,66000,5390,Intel,Core i3-1115G4,3,4,DDR4,512GB M.2 NVMe PCIe 3.0 SSD,15,IPS,Intel UHD Graphics," 3S1P, 3-cell Li-ion",42,0
+ Latitude 5320,Dell,0,0,0,Intel ,Core i7-1185G7,3,16,DDR4,512GB M.2 PCIe NVMe SSD,13,,Intel Iris Xe Graphics,3 Cell ExpressCharge Capable Battery,42,0
+ Inspiron 16 5620,Dell,0,0,0,Intel,Core i7-1255U,3,16,DDR4 ,512GB M.2 PCIe NVMe SSD,16,WVA,NVIDIA GeForce MX570,4-Cell Integrated,54,0
+ XPS 13 9310,Dell,0,0,0,Intel ,Core i5-1155G7,2,8,LPDDR4x ,512GB  M.2 PCIe NVMe SSD,13,,Intel Iris Xe Graphics,4-Cell Integrated battery,52,0
+ Vostro 15 3510,Dell,0,0,0,Intel,Core i5-1135G7,2,8,DDR4,512GB SSD NVMe PCIe,15,FHD,Nvidia MX350,3 Cell,41,0
+ 15s-fq5786TU,HP,69980,64700,5280,Intel,Core i3-1215U,4,1,DDR4 ,512 GB  PCIe NVMe M.2 SSD,15,,Intel UHD Graphics,3-cell Li-ion,41,0
+ Passion BX510U,Walton,65325,64550,775,Intel,Core i5-10210U,1,8,DDR4,512GB SATAIII M.2 2280 SSD,15,,Intel UHD Graphics,3 cells Smart Lithium-Ion,36,0
+ Liber V14,AVITA,75416,71990,3426,Intel,Core i5-1135G7,2,8,DDR4,512GB SSD,14,IPS,Intel UHD Graphics,,7,0
+ VivoBook X1402ZA-EB636W,Asus,75790,71500,4290,Intel, Intel Core i3-1220P,4,8,DDR4,512GB NVMe PCIe,14,IPS,Intel UHD Graphics,3-cell,42,0
+ 15s-fq4786TU,HP,77040,71300,5740,Intel,Core i5-1155G7,2,8,DDR4,512 GB  PCIe NVMe M.2 SSD,15,,Intel Iris Xᵉ Graphics,3-cell Li-ion,41,0
+ M1502IA-EJ388W,Asus,74800,71000,3800,AMD,Ryzen 5 4600H,3,8,DDR4,512GB PCIEG3,15,IPS,AMD Radeon Graphics,3-cell,42,0
+ X1504VA-NJ260W,Asus,74800,70800,4000,Intel, Intel Core i3-1315U,1,8,DDR4,256GB NVMe PCIe,15,LED ,Intel Iris X Graphics,3 Cell,42,0
+ IdeaPad Slim 3i 14IRU8,Lenovo,75900,70500,5400,Intel,Core i3-1305U,3,8,DDR5,512GB SSD,14,IPS,Intel UHD Graphics,,47,0
+ XPS 15 9520,Dell,0,0,0,Intel ,i9-12900HK,3,16,DDR5,512GB  M.2 PCIe NVMe SSD,15,OLED,NVIDIA RTX 3050 Ti,6 Cell,86,0
+ XPS 17 9720,Dell,0,0,0,Intel ,Core i7-12700H,2,16,DDR5,1TB M.2 PCIe NVMe SSD,17,LED,NVIDIA RTX 3060,6 Cell,97,0
+ Vostro 14 3405,Dell,0,0,0,AMD,Ryzen 3 3250U,2,4,DDR4 ,1TB SATA HDD,14,IPS,AMD Radeon Graphics,3 Cell Integrated,42,0
+ Aspire 3 A315-59-34TO,Acer,62150,58000,4150,Intel,Core i3-1215U,3,8,DDR4,512GB NVMe PCIe,15,LED,Intel UHD Graphics,3-cell Lithium Ion (Li-Ion),40,0
+ A315-59-390P,Acer,62150,58000,4150,Intel,Core i3-1215U,3,8,DDR4,512GB NVMe PCIe,15,LED,Intel UHD Graphics,3-cell Lithium Ion (Li-Ion),40,0
+ Aspire 3 A315-59,Acer,62710,58000,4710,Intel,Core i3-1215U,3,8,DDR4,"512GB PCIe Gen3, 8 Gb/s up to 4 lanes, NVMe",15,TFT LCD,Intel UHD Graphics,3-cell Lithium Ion (Li-Ion),40,0
+ EX215-23,Acer,57750,53500,4250,AMD ,Ryzen 3 7320U,2,8,DDR5,256 GB SSD,15,TFT LCD,AMD Radeon Graphics,Lithium Ion (Li-Ion),40,0
+ Extensa 15 EX215-54-34SE,Acer,49000,46500,2500,,,,,, ,,,,,,0
+ Extensa 15 EX215-54-37AH,Acer,48830,45200,3630,Intel ,Core i3-1115G4 Processor,3,4,DDR4 ,1TB 2.5 inch HDD,15,,Intel UHD Graphics,2-cell Li-ion battery,36,0
+ 15s-fq5192TU,HP,84960,78500,6460,Intel,Core i5-1235U,4,8,DDR4,512 GB  PCIe NVMe M.2 SSD,15,,Intel Iris Xe Graphics,3-cell Li-ion Battery,41,0
+ Extensa 14 EX214-53-543W,Acer,84960,78500,6460,Intel,Core i5-1240P,4,8,DDR4,512GB PCIe M.2 NVMe,14,IPS,Intel Iris Xe Graphics,3-cell Li-ion battery,50,0
+ IdeaPad Slim 3,Lenovo,81950,77000,4950,AMD,Ryzen 5 7530U,2,8,DDR4,512GB SSD M.2 2242 PCIe 3.0x4 NVMe SSD,15,,AMD Radeon Graphics,Integrated,47,0
+ Passion BX710U,Walton,75450,74550,900,Intel,Core i7-10510U,1,8,DDR4,512GB SATAIII M.2 2280 SSD,15,,Intel UHD Graphics,3 cells Smart Lithium-Ion,36,0
+ Tamarind MX511G,Walton,79750,74500,5250,Intel,Core i5-1135G7,2,8,DDR4,"512GB M.2 2280, PCIe Gen3x4 SSD",14,IPS,Intel UHD Graphics,4 cells Smart Lithium-Ion,49,0
+ ExpertBook P1 P1512CEA ,Asus,103940,96000,7940,Intel,Core i7-1165G7,2,8,DDR4,512GB M.2 NVMe PCIe 3.0 SSD,15,,INTEL IRIS Xe,2-cell Li-ion,37,0
+ VivoBook Flip 14 TM420UA,Asus,96800,89900,6900,AMD,Ryzen 5 5500U,2,4,DDR4,512GB SSD NVMe PCIe,14,LED,AMD Radeon Graphics,3-cell Li-ion,42,0
+ Galaxy Book,Samsung,88900,86000,2900,Intel,Core i5-1135G7,2,8,LPDDR4x,256GB SSD,15,IPS,Intel Iris Xe Graphics,,54,0
+ Aspire 7 A715-42G-R2NE,Acer,92770,86000,6770,AMD,Ryzen 5 5500U,2,8,DDR4,"512 GB PCIe Gen3, 8 Gb/s, NVMe SSD",15,IPS,NVIDIA GeForce GTX 1650,3-cell Li-ion,48,0
+ TravelMate TMP214-53,Acer,91180,84900,6280,Intel,Core i7-1165G7,2,8,DDR4,512GB M.2 NVME SSD,14,IPS,Intel Iris Xe Graphics,3-cell Li-ion,48,0
+ Vivobook 15 OLED M1505YA,Asus,94600,89000,5600,AMD,Ryzen 5 7530U,2,8,DDR4 ,512GB  PCIe Gen3 x2 M.2 SSD,15,OLED,AMD Radeon Graphics, 3-cell Li-ion,50,0
+ Tamarind MX711G,Walton,85514,84500,1014,Intel,Core i7-1165G7,2,8,DDR4,"512GB M.2 2280, PCIe Gen3x4 SSD",14,IPS,Intel UHD Graphics,4 cells Smart Lithium-Ion,49,0
+ M1502IA-EJ390W,Asus,86350,81500,4850,AMD,AMD Ryzen 7 4800H ,2,16,DDR4,512GB PCIEG3,15,LED,AMD Radeon Graphics,3-cell,42,0
+ ROG Strix G15 G513IE,Asus,154000,144000,10000,AMD,Ryzen 7 4800H,2,8,DDR4,512GB M.2 NVMe PCIe 3.0 SSD,15,LED,Nvidia RTX 3050 Ti,4 Cell Li-ion,56,0
+ Modern 14 C12MO,MSI,105790,98000,7790,Intel ,Core i7-1255U,3,1,DDR4 ,512GB  NVMe PCIe Gen3x4 SSD,14,IPS,Intel Iris Xe,3 cell,39,0
+ TUF Gaming A15 FA507RC,Asus,154000,144000,10000,AMD,Ryzen 7 6800H,3,8,DDR5,512GB  M.2 NVMe PCIe 3.0 SSD,15,LED,Nvidia RTX 3050 Graphics,4-cell Li-ion,56,0
+ 911MT,Thunderobot,146228,139000,7228,Intel,Core i5-12450H,3,16,DDR4,512GB M.2 NVMe PCIe 4.0 SSD,15,LED,NVIDIA GeForce RTX 3060, 3-cell Li-ion,41,0
+ Latitude 3440,Dell,0,0,0,Intel ,Core i7-1355U,1,8,DDR4 ,512GB NVMe PCIe Gen3x4 SSD,14,LED,Intel Iris Xe Graphics,3-Cell,42,0
+ Latitude 5440,Dell,0,0,0,Intel ,Core i5-1335U,3,8,DDR4 ,512GB NVMe PCIe Gen3x4 SSD,14,LED,Intel Iris Xe Graphics,3-Cell,42,0
+ Modern 15 B13M,MSI,97790,91500,6290,Intel ,Core i5-1335U,3,16,DDR4 ,512GB NVMe PCIe Gen3x4 SSD,15,IPS,Intel Iris Xe Graphics,3-Cell,39,0
+ GF63 THIN 11UCX,MSI,101090,93900,7190,Intel,Core i5-11260H ,2,8,DDR4,512GB  NVMe PCIe Gen3x4 SSD,15,IPS-Level,NVIDIA GeForce RTX 2050,3 cell Polymer,52,0
+ TUF Gaming F15 FX507ZC,Asus,148500,139000,9500,Intel,Core i5-12450H,3,8,DDR5,512GB M.2 NVME PCIE 3.0 SSD,15,LED,Nvidia RTX 3050,4 Cell,76,0
+ Modern 15 B12M,MSI,100650,91500,9150,Intel ,Core i7-1255U,3,16,DDR4,512GB  NVMe PCIe Gen3x4 SSD,15,IPS-Level,Intel Iris Xe Graphics,3-Cell Integrated,39,0
+ Stealth 17Studio A13VI,MSI,0,0,0,Intel ,Core i9-13900H,2,64,DDR5,4TB (2TBx2) NVMe PCIe Gen4x4 SSD,17,IPS,NVIDIA GeForce RTX 4090,4 cell,99,0
+ TUF Gaming A17 FA706ICB,Asus,129800,121000,8800,AMD,Ryzen 5 4600H,3,8,DDR4 ,512GB M.2 NVMe PCIe 3.0 SSD,17,LED,Nvidia RTX 3050 Graphics, 3-cell Li-ion,48,0
+ TUF Gaming A15 FA507RM,Asus,196390,181900,14490,AMD,Ryzen 7 6800H,3,16,DDR5,512GB  M.2 NVMe PCIe 3.0 SSD,15,LED,Nvidia RTX 3060 Graphics,4-cell Li-ion,90,0
+ Modern 14 C13M,MSI,112090,104500,7590,Intel ,Core i7-1355U,3,16,DDR4 ,512GB NVMe PCIe Gen3x4 SSD,14,IPS,Intel Iris Xe Graphics,3-Cell,39,0
+ TUF Gaming A15 FA507RE,Asus,166550,153900,12650,AMD,Ryzen 7 6800H,3,16,DDR5,512GB  M.2 NVMe PCIe 3.0 SSD,15,IPS,,4-cell Li-ion,56,0
+ TUF Gaming A15 FA506QM,Asus,190420,176000,14420,AMD,Ryzen 7 5800H,3,16,DDR4 ,512GB M.2 NVMe PCIe 3.0 SSD,15,LED,Nvidia RTX 3060 Graphics, 3-cell Li-ion,90,0
+ Cyborg 15 A12VF,MSI,171490,158900,12590,Intel ,Core i7-12650H,2,16,DDR5,512GB  NVMe PCIe Gen3x4 SSD,15,LED,NVIDIA GeForce RTX 4060,3 cell Integrated,53,0
+ 911X,Thunderobot,187000,174900,12100,Intel,Core i5-13500H,3,16,DDR4,512GB M.2 NVMe PCIe 4.0 SSD,15,LED,NVIDIA GeForce RTX 4060, 3-cell Li-Polymer,41,0
+ Pulse 15 B13VFK,MSI,193490,179500,13990,Intel ,Core i7-13700H,2,16,DDR5,512GB NVMe PCIe Gen4x4 SSD,15,IPS,NVIDIA GeForce RTX 4060,4-Cell,90,0
+ IdeaPad Gaming 3i,Lenovo,177940,165000,12940,Intel,Core i7-12650H,2,16,DDR4,512GB M.2 2280 PCIe 3.0x4 NVMe SSD,16,LED,NVIDIA GeForce RTX 3050,,71,0
+ Katana 15 B12UDXK,MSI,148500,139000,9500,Intel ,Core i5-12450H,3,16,DDR5,1TB  NVMe PCIe Gen3x4 SSD,15,LED,NVIDIA GeForce RTX 3050,3 cell Integrated,53,0
+ Sword 15 A12UCX,MSI,143000,134000,9000,Intel ,Core i5-12450H,3,8,DDR5,512GB NVMe PCIe Gen4x4 SSD,15,LED,Nvidia RTX 2050,3-Cell,53,0
+ Cyborg 15 A12VE,MSI,139590,129500,10090,Intel ,Core i5-12450H,3,16,DDR5,512GB  NVMe PCIe Gen3x4 SSD,15,LED,RTX 4050,3 cell Integrated,53,0
+ TUF Dash F15 FX517ZE,Asus,169290,153900,15390,Intel,Core i5-12450H,3,16,DDR5,512GB M.2 NVME PCIE 3.0 SSD,15,LED,Nvidia RTX 3050 Ti,4 Cell,76,0
+ IdeaPad Slim 5i,Lenovo,167090,155000,12090,Intel ,Core i7-1255U,4,16,DDR4 ,512GB M.2 NVME SSD M.2 NVME SSD,15,LED,Nvidia MX550 Graphics,Integrated ,76,0
+ Katana GF66 12UEOK,MSI,135300,127000,8300,Intel ,Core i5-12450H,3,16,DDR5,512GB  NVMe PCIe Gen4x4 SSD,15,LED,NVIDIA GeForce RTX 3060,3 cell Integrated,53,0
+ Summit E16 Flip Evo A13MT,MSI,198990,183900,15090,Intel ,Core i7-1360P,2,16,LPDDR5,1TB NVMe PCIe Gen4x4 SSD,16,IPS,Intel Iris Xe graphics,4 cell,82,0
+ Surface Laptop Studio,Microsoft,302500,292000,10500,Intel ,Core i7-11370H Processor,3,32,LPDDR4x,1TB SSD,14,PixelSense Flow Display,NVIDIA GeForce RTX 3050 Ti  ,Integrated,,0
+ Raider GE66 12UHS,MSI,0,0,0,,,,,, ,,,,,,0
+ Summit E13 Flip Evo A13MT,MSI,0,0,0,Intel,Core i7-1360P,2,16,LPDDR5,1TB NVMe PCIe Gen4,13,IPS,Intel Iris Xe graphics,4-Cell,70,0
+ Legion 5i,Lenovo,268860,248000,20860,Intel,Core i7-12700H,2,16,DDR5,1TB NVMe PCIe,15, LED,Nvidia RTX 3060 Graphics,Integrated ,80,0
+ Surface Laptop 5,Microsoft,214500,205000,9500,Intel ,Core i7 1255U,4,16,LPDDR5X,512GB NVMe PCIe SSD,13,PixelSense ,Integrated Intel Iris Xe Graphics,,47,0
+ Zenbook Pro 14 Duo OLED UX8402ZA-M3031W ,Asus,233275,224990,8285,Intel,i7-12700H,2,16,LPDDR5,1TB M.2 NVMe PCIe 4.0 Performance SSD,14,OLED,Intel Iris Xe Graphics,"4S1P, 4-cell Li-ion",76,0
+ Titan GT77HX 13VI,MSI,836890,774900,61990,Intel ,Core i9-13980HX,2,64,DDR5,4TB (2TBx2) NVMe PCIe Gen4x4 SSD,17,IPS,NVIDIA GeForce RTX 4090,4 cell,99,0
+ Raider GE68 HX 13VG,MSI,423500,395000,28500,Intel ,Core i9-13980HX,2,32,DDR5,2TB NVMe PCIe Gen4x4 SSD,16,LED,NVIDIA GeForce RTX 4070,4 cell Li-Ion,99,0
+ Stealth 16 Mercedes-AMG A13VG,MSI,431200,399900,31300,Intel ,Core i9-13900H,2,32,DDR5,2TB NVMe PCIe Gen4x4 SSD,16,OLED,NVIDIA GeForce RTX 4070,4-Cell,99,0
+ Surface Go 3,Microsoft,0,0,0,Intel ,Core i3 10100Y,3,8,,128GB  SSD,10,PixelSense ,Intel UHD Graphics 615,Integrated,,0
+ TUF Dash F15 FX517ZM,Asus,217800,203000,14800,Intel,Core i7-12650H,2,16,DDR5,512GB M.2 NVME PCIE 3.0 SSD,15,LED,Nvidia RTX 3060,4 Cell,76,0
+ MSI Creator Z16 HX Studio B13VFTO,MSI,385000,365000,20000,Intel ,Core i7-13700H,2,32,DDR5,2TB  NVMe PCIe Gen4 SSD,16,LED,Nvidia RTX 4060,4-Cell Integrated,90,0
+ Legion Slim 7i,Lenovo,279930,259000,20930,Intel,Core i7-12700H,2,16,DDR5,1TB SSD NVMe PCIe,16,LED,Nvidia RTX 3070 Graphics,Integrated ,99,0
+ Modern 14 C5M,MSI,0,0,0,AMD,Ryzen 5 5625U,2,8,DDR4 ,512GB  NVMe PCIe Gen3x4 SSD,14,IPS,AMD Radeon Graphics,3 cell,39,0
+ Surface Laptop 4,Microsoft,0,0,0,AMD ,Ryzen 5 4680U,2,8,LPDDR4x ,256GB SSD,13,PixelSense ,AMD Radeon Graphics,Integrated ,47,0
+ MacBook Air (2022) M2 Chip Model,Apple,152440,141000,11440,Apple,M2 chip,2,8,Unified memory,256GB SSD,13,Liquid Retina display,Apple 8-core GPU,Lithium‑polymer,52,0
+ Modern 14 C12M,MSI,0,0,0,Intel ,Core i3-1215U,3,8,DDR4 ,512GB  NVMe PCIe Gen3x4 SSD,14,IPS-Level,Intel UHD Graphics,3 cell integrated,39,0
+ Modern 15 B11M,MSI,0,0,0,Intel ,Core i5-1135G7,2,8,DDR4,512GB NVMe PCIe Gen3x4 SSD,15,LED,Intel Iris Xe Graphics,3 cell,39,0
+ Legion 5i Pro,Lenovo,275590,255000,20590,Intel,Core i7-12700H,2,16,DDR5,1TB SSD NVMe PCIe,16,LED,NVIDIA GeForce RTX 3060,Integrated ,80,0
+ GF63 THIN 11UC,MSI,0,0,0,Intel ,Core i5-11400H,2,8,DDR4 ,256GB  SSD NVMe PCIe Gen3x4 SSD + HDD,15,IPS,NVIDIA GeForce RTX 3050 Max-Q ,3 cell Li-Polymer,51,0
+ Surface Pro 8,Microsoft,0,0,0,Intel ,Core i5-1135G7,2,8,LPDDR4x ,128GB  NVMe PCIe SSD,13,PixelSense,Intel Iris Xe Graphics,,,0
+ ThinkPad X1 Carbon Gen 9,Lenovo,285000,270000,15000,Intel,Core i7,2,16,LPDDR4x,512GB SSD NVMe PCIe SSD,14,WUXGA IPS LED Display,Intel Iris Xe Graphics,3 Cell Li-ion,57,0
+ Surface Go 2,Microsoft,0,0,0,Intel ,Pentium Gold Processor 4425Y ,1,4,,64GB  SSD,10,PixelSense ,Intel UHD Graphics 615,Integrated,,0
+ Surface Pro 9,Microsoft,0,0,0,Intel ,Core i7-1255U,3,16,LPDDR5,256GB NVMe PCIe,13,PixelSense Flow Display,Intel Iris Xe Graphics,Integrated,47,0
+ Modern 14 B11SB,MSI,0,0,0,Intel ,Core i5-1155G7,2,8,DDR4 ,1TB  NVMe PCIe SSD,14,IPS,Nvidia GeForce MX450,3 Cell,52,0
+ MacBook Air 15-Inch,Apple,182820,169000,13820,Apple,M2 chip,2,8,Unified memory,256GB SSD,15,Liquid Retina display with True Tone,Apple 8-core GPU,Lithium‑polymer,66,0
+ GF63 THIN 11SC,MSI,96250,90000,6250,Intel,Core i5-11400H,2,8,DDR4,512GB NVMe,15,IPS,NVIDIA GeForce GTX 1650,"3 cell, Li-Polymer",51,2
+ Summit E14 A11SCS,MSI,0,0,0,Intel,Core i7-1185G7,1,16,LPDDR4 ,NVMe PCIe Gen4x4 SSD 1TB,14,IPS,GTX1650 Ti Max-Q,3-Cell Li-Polymer,52,0
+" MacBook Pro 14""",Apple,258500,240000,18500,Apple,M2 Pro chip,,16,,512GB SSD,14,Liquid Retina XDR,16-core GPU,Lithium-polymer battery,100,0
+ Prestige 14 A11SB,MSI,0,0,0,Intel,Core i7-1185G7,3,16,LPDDR4x ,1TB PCIe SSD,14,IPS ,Nvidia MX450,3-Cell Li-Polymer,52,0
+ Bravo 15 B5DD,MSI,0,0,0,AMD,Ryzen 5 5600H,3,8,DDR4 ,512GB NVMe PCIe Gen3x4 SSD,15,IPS,AMD Radeon RX 5500M,3-Cell,53,0
+ MacBook Pro 13.3-Inch,Apple,199100,184000,15100,,,,,, ,,,,,,0
+ Katana GF66 11UC,MSI,0,0,0,Intel,Core i5-11400H,2,8,DDR4 ,512GB NVMe PCIe Gen3x4 SSD,15,IPS ,NVIDIA GeForce RTX 3050,3 cell integrated,53,0
+ Pulse GL66 12UEK,MSI,0,0,0,Intel,Core i7-12700H,3,16,DDR4 ,1TB NVMe PCIe Gen4x4 SSD,15,IPS,NVIDIA GeForce RTX 3060,3 cell,53,0
+ Pavilion 15-eg2109TU,HP,98520,91000,7520,Intel,Core i5-1240P,4,8,DDR4,512GB PCIe NVMe M.2 SSD,15,IPS,Intel Iris Xe Graphics,3-cell Li-ion,41,0
+ Katana 17 B13VEK,MSI,0,0,0,Intel ,Core i7-13620H,2,16,DDR5,1TB NVMe PCIe Gen4x4 SSD,17,IPS,NVIDIA GeForce RTX 4050,3-Cell,53,0
+ ExpertBook B3 Flip B3402FEA,Asus,95810,91000,4810,Intel,Core i5-1135G7,2,8,DDR4 ,512GB M.2 NVMe PCIe 3.0 SSD,14,LED ,Intel Iris Xe,3-cell Li-ion,50,0
+ MacBook Pro 16-Inch,Apple,412500,390000,22500,Apple,M1 Max Pro,,32,,1TB SSD,16,Liquid Retina XDR Display,Apple 16-Core GPU,Integrated lithium-polymer battery,100,0
+ Creator Z16 A11UET,MSI,0,0,0,Intel ,Core i7-11800H,2,16,DDR4,512GB   NVMe PCIe Gen4 SSD,16,IPS-Level,NVIDIA GeForce RTX 3060,4-Cell Integrated,90,0
+ Delta 15 A5EFK,MSI,0,0,0,AMD,Ryzen 7 5800H,3,16,DDR4,512GB NVMe PCIe Gen3 SSD,15,IPS,AMD Radeon RX 6700M,4-Cell Integrated,82,0
+ Katana 15 B13VEK,MSI,0,0,0,Intel ,Core i7-13620H,2,16,DDR5,1TB NVMe PCIe Gen4x4 SSD,15,IPS,NVIDIA GeForce RTX 4050,3-Cell,53,0
+ X1504VA-NJ261W,Asus,95150,89500,5650,Intel,Intel Core i5-1335U,1,8,DDR4,512GB NVMe PCIe,15,LED ,Intel Iris X Graphics Is Only Available In Models With Intel Core I5/I7/I9 Processors And Dual-Channel Memory,3 Cell,42,0
+ MacBook Pro 14-Inch Space Grey 2021,Apple,422070,390000,32070,,,,,, ,,,,,,0
+ Creator M16 A12UC,MSI,0,0,0,Intel ,Core i7-12700H,3,16,DDR4,512GB  NVMe PCIe Gen4x4 SSD,16,IPS,NVIDIA GeForce RTX 3050,3-Cell,53,0
+ Katana GF66 12UD,MSI,0,0,0,Intel,Core i7-12700H,,16,DDR4 ,512GB NVMe PCIe Gen3x4 SSD,15,IPS,NVIDIA GeForce RTX 3050 Ti,3 cell,53,0
+" MacBook Pro 16""",Apple,330930,305000,25930,Apple,M2 Pro chip,,16,,1TB SSD,16,Liquid Retina XDR,19-core GPU,Lithium-polymer battery,100,0
+ Raider GE66 Deluxe Edition,MSI,0,0,0,Intel , Core i9-12900HK,3,32,DDR5 ,2TB NVMe PCIe Gen4x4 SSD,15,,NVIDIA GeForce RTX 3080 Ti ,4-Cell Integrated,99,1
+ Aspire 5 AN515-57G-52HF,Acer,103400,95500,7900,Intel,Core i5-1240P,4,8,DDR4,"512 GB PCIe Gen3, 8 Gb/s, NVMe SSD",15,IPS,NVIDIA GeForce RTX 2050,3-cell Li-ion,50,0
+ MacBook Air 13-inch 2020,Apple,0,0,0,,,,,, ,,,,,,0
+ Katana GF66 12UC,MSI,0,0,0,Intel ,Core i7-12700H,3,8,DDR4 ,512GB  NVMe PCIe Gen3x4 SSD,15,IPS,NVIDIA GeForce RTX 3050,3 cell Integrated,53,0
+ Vector GP77 13VG,MSI,0,0,0,Intel ,Core i7-13700H,2,16,DDR5,2TB NVMe PCIe Gen4x4 SSD,17,IPS,NVIDIA GeForce RTX 4070,4 cell,65,0
+" MacBook Air 13"" M1 Chip",Apple,0,0,0,Apple,M1 chip,2,8,unified memory,256GB SSD,13,Retina display with IPS technology,Apple 7-core GPU,lithium‑polymer,49,0
+ Apple MacBook Air 13.3-Inch Silver,Apple,0,0,0,,,,,, ,,,,,,0
+ Aspire 5 5M-A515-58GM,Acer,101770,94000,7770,Intel,Core i5 1335U,4,8,DDR4,512 GB SSD,15,IPS,Nvidia RTX 2050 Graphics,3-cell Li-ion,50,0
+ Vector GP77 13VF,MSI,0,0,0,Intel ,Core i7-13700H,2,16,DDR5,2TB NVMe PCIe Gen4x4 SSD,17,IPS,NVIDIA GeForce RTX 4060,4 cell,65,0
+ ZenBook 14 UM425UA,Asus,99990,93500,6490,AMD,Ryzen 5 5500U,2,8,LPDDR4x ,512GB PCIe NVMe 3.0 x2 M.2 SSD,14,IPS,AMD Radeon ,4-cell lithium-polymer,67,0
+ Summit E16Flip A12UCT,MSI,0,0,0,Intel ,Core i7-1280P,3,32,LPDDR5,1TB NVMe PCIe Gen4x4 SSD,16,IPS,NVIDIA GeForce RTX 3050 Max-Q,4-Cell,82,0
+ MacBook Pro 14,Apple,0,0,0,Apple,M1 Pro Chip,0,32,,512GB SSD,14,Liquid Retina XDR,Apple 14-core GPU,Lithium-polymer,70,0
+ ProBook 455 G9,HP,95500,95500,0,AMD,Ryzen 5 5625U,,8,DDR4 ,512GB PCIe NVMe SSD,15,IPS,AMD Radeon Graphics,3 Cell,45,0
+ Sword 15 A12VF,MSI,0,0,0,Intel ,Core i7-12650H,2,16,DDR5,1TB NVMe PCIe Gen4x4 SSD,15,IPS,NVIDIA GeForce RTX 4060,3-Cell,53,0
+ 15-eg2117TU,HP,120980,112000,8980,Intel,Core i7-1260P,4,8,DDR4 ,512 GB  PCIe NVMe M.2 SSD,15,IPS,Intel Iris Xe Graphics,3-cell Li-ion Battery,41,0
+ 15s-du4026TU,HP,117180,108500,8680,Intel ,Core i7-1255U,1,8,DDR4 ,256GB SSD + 1TB HDD PCIe NVMe M.2 SSD + SATA HDD,15,,Intel Iris Xe Graphics,3-cell,41,0
+ A715-76G,Acer,118690,110000,8690,Intel,Core i5-12450H Processor,3,8,DDR4,512GB PCIe NVMe Gen3 SSD,15,IPS LCD,NVIDIA RTX 3050,Lithium Ion (Li-Ion),50,0
+ VivoBook 15 X513EP,Asus,119350,112000,7350,Intel,Core i7-1165G7,,8,DDR4,512GB PCIe NVMe M.2 SSD,15,LED,NVIDIA GeForce MX350,3 -Cell,42,0
+ Vivobook 16X OLED M1603QA,Asus,115500,108000,7500,AMD,Ryzen 5 5600H,3,8,DDR4,512GB  M.2 NVMe PCIe 3.0 SSD,16,LED,AMD Radeon Graphics,3-cell Li-ion,70,0
+ VivoBook 15 S513EQ ,Asus,107630,99500,8130,Intel,Core i5-1135G7,2,8,DDR4 ,512GB M.2 NVMe PCIe 3.0 SSD,15,OLED ,NVIDIA GeForce MX350,3 -Cell,42,0
+ K3504VA-L1272W,Asus,112200,105000,7200,Intel,Intel Core i5-1340P,4,8,DDR4,512GB NVMe PCIe,15,OLED,Intel Iris X Graphics,3-cell,50,0
+ VivoBook 15X X1503ZA OLED,Asus,106110,98000,8110,Intel,Core i5-12500H,4,8,DDR4,512GB M.2 NVMe PCIe 3.0 SSD PCIe NVMe M.2 SSD,15,OLED ,Intel UHD Graphics,3-cell Li-ion,70,0
+ X1503ZA-L1277W,Asus,104500,98990,5510,Intel,Intel Core i5-12500H,4,8,DDR4,512GB NVMe PCIe,15,OLED,Intel Iris Xe Graphics,3-cell,70,0
+ Galaxy Book2 Business,Samsung,98900,98000,900,Intel,Core i5-1240P,4,8,DDR4,256GB SSD,14,IPS,Intel Iris Xe Graphics,,51,0
+ VivoBook Pro 15 K3500PA,Asus,122610,113500,9110,Intel,Core i7-11370H,3,8,DDR4,512GB M.2 NVMe PCIe G3.0 SSD,15,LED,Intel Iris Xe,3 Cell,63,0
+ Aspire 7 A715-51G,Acer,105790,98000,7790,Intel,Core i5-1240P,4,8,DDR4,"512 GB PCIe Gen3, 8 Gb/s, NVMe SSD",15,IPS,NVIDIA GeForce GTX 1650,3-cell Li-ion,50,0
+ IdeaPad Gaming 3 15ARH7,Lenovo,150270,139000,11270,AMD,Ryzen 7 7735HS,3,16,DDR5,512GB SSD  M.2 PCIe NVMe PCIe 3.0 x4 SSD,15,IPS ,NVIDIA GeForce RTX 3050,Integrated,60,0
+ Vivobook Pro 15 M3500QC,Asus,150150,139500,10650,AMD ,Ryzen 7,4,16,DDR4,512GB NVMe PCIe,15,FHD LED,Nvidia RTX 3050 Graphics,"3 Cell, Li-ion",63,0
+ VivoBook 15 K513EQ ,Asus,109590,102000,7590,Intel,Core i5-1135G7,2,8,DDR4 ,512GB M.2 NVMe PCIe 3.0 SSD,15,OLED,NVIDIA GeForce MX350,3 -Cell,42,0
+ ZenBook 14 Flip OLED UP5401EA,Asus,142020,135000,7020,Intel,Core i5-1135G7,2,8,LPDDR4X ,512GB M.2 NVMe PCIe 3.0 G4 SSD,14,OLED ,Intel Iris Xe,3-cell Li-ion,63,0
+ G5 KF,GIGABYTE,147400,138000,9400,Intel ,Core i5-12500H,4,8,DDR4,512GB SSD M.2 NVMe PCIe Gen4 SSD,15,IPS,NVIDIA GeForce RTX 4060,Li-ion,54,0
+ ZenBook Duo 14 UX482EAR,Asus,147890,136500,11390,Intel,Intel Core i7-1195G7,2,16,LPDDR4X ,512GB  M.2 NVMe PCIe 3.0 G3 SSD,14,IPS,Intel Iris Xe,4-cell Li-ion,70,0
+ Asus ZenBook 14 OLED UX3402ZA,Asus,140800,132000,8800,Intel,Core i5-1240P,4,16,LPDDR5,512GB PCIe NVMe 3.0 x2 M.2 SSD,14,,Intel Iris Xe Graphics,"2S2P, 4-cell Li-ion",75,0
+  TUF GAMING F15 FX506HE,Asus,143000,133500,9500,Intel,Core i5-11400H,2,8,DDR4 ,512GB M.2 NVME PCIE 3.0 SSD,15,IPS,NVIDIA GeForce RTX 3050 Ti,3-cell Li-ion ,48,0
+ G5 MF,GIGABYTE,140510,130000,10510,Intel ,Core i5-12500H,4,8,DDR4,512GB SSD M.2 NVMe PCIe Gen4 SSD,15,IPS,NVIDIA GeForce RTX 4050,Li-ion,54,0
+ IdeaPad Slim 5i Pro,Lenovo,129700,121000,8700,Intel ,Core i5-11300H,3,1,DDR4 ,512GB M.2 2242 PCIe 3.0×4 NVMe SSD,16,2.5K WQXGA IPS LED Display,Nvidia MX450,Integrated (Fast Charging Enable.),75,0
+ ZenBook 14 OLED UM3402YA,Asus,138380,129500,8880,AMD,Ryzen 5 5625U,2,16,LPDDR4x ,512GB PCIe NVMe 3.0 x2 M.2 SSD,14,2.8K OLED WQHD,AMD Radeon ,4-cell lithium-polymer,75,0
+ ZenBook 14 UM3402YA,Asus,137500,129000,8500,AMD,Ryzen 7 5825U,2,16,LPDDR4x,512GB PCIe NVMe 3.0 x2 M.2 SSD,14,LED ,AMD Radeon ,4-cell lithium-polymer,75,0
+ ZenBook 14X UX5401EA,Asus,130900,119000,11900,Intel,Core i5-1135G7,2,8,LPDDR4X ,512GB  M.2 NVMe PCIe 3.0 G4 SSD,14,OLED,Intel Iris Xe Graphics,3-cell Li-ion,63,0
+ VivoBook 15X OLED X1503ZA,Asus,123200,116000,7200,Intel,Core i7-12700H,2,8,DDR4,512GB M.2 NVMe PCIe 3.0 SSD PCIe NVMe M.2 SSD,15,OLED ,Intel Iris Xe Graphics,3-cell Li-ion,70,0
+ ZenBook Duo 14 UX482EA,Asus,187710,174000,13710,Intel,Core i7-1165G7,2,16,LPDDR4X ,512GB  M.2 NVMe PCIe 3.0 G3 SSD,14,IPS,Intel Iris Xe,4-cell Li-ion,70,0
+ LOQ 15APH8,Lenovo,181500,181500,0,AMD,Ryzen 7 7840HS,3,16,DDR5,512GB M.2 2280 PCIe 3.0x4 NVMe SSD,15,IPS,NVIDIA GeForce RTX 4050,,60,0
+ Vivobook Pro 16X OLED M7600QE,Asus,187550,174000,13550,AMD,Ryzen 7 5800H,20,16,DDR4 ,512GB M.2 NVMe PCIe 3.0 SSD,16,OLED ,NVIDIA GeForce RTX 3050 Ti , 6-cell Li-ion,96,0
+ TUF Gaming F15 FX507VU4,Asus,187000,174000,13000,Intel,Core i7-13700H,2,8,DDR4,512GB M.2 NVME PCIE 4.0 SSD,15,IPS,Nvidia RTX 4050,4 Cell,90,0
+ TUF Gaming A16 Advantage Edition,Asus,181500,169900,11600,AMD,Ryzen 7 7735HS,3,16,DDR5,512GB SSD  PCIe 4.0 NVMe M.2 SSD,16,LED,AMD Radeon RX 7600S,"4S1P, 4-cell Li-ion",90,0
+ TUF Gaming A15 FA507XU,Asus,181500,169900,11600,AMD,Ryzen 9 7940HS,5,8,DDR5,512GB M.2 NVMe PCIe 3.0 SSD,15,LED,NVIDIA GeForce RTX 4050,"4S1P, 4-cell Li-ion",90,0
+ K3605ZF-MX148W,Asus,178200,167000,11200,Intel,Intel Core i7-12650H,4,16,DDR4,512GB NVMe PCIe,16,OLED,Nvidia RTX 2050 Graphics,3-cell,63,0
+ UP3404VA-KN109WS,Asus,170500,159000,11500,Intel,Intel Core i5-1340P,4,16,LPDDR5,512GB NVMe PCIe,14,OLED,Intel Iris X Graphics,4 Cell,75,0
+ AORUS 15 9MF,GIGABYTE,170500,160000,10500,Intel ,Core i5-12500H,4,8,DDR5,512GB NVMe PCIe Gen4 SSD,15,IPS,NVIDIA GeForce RTX 4050,Li Polymer,99,0
+ ThinkPad P14s Gen 2,Lenovo,158500,158500,0,Intel ,Core i5-1135G7,2,8,DDR4,512GB  M.2 2242 PCIe Gen3 TLC SDD,14,IPS,Integrated Intel UHD Graphics,3 Cell Li-Polymer ,50,0
+ ROG Zephyrus G15 GA503RM,Asus,291500,265000,26500,AMD,Ryzen 7 6800HS ,20,16,DDR5 ,1TB PCI-E M.2 NVME PCI-E G4 SSD,15,IPS,NVIDIA GeForce RTX 3060,4-cell Li-ion,90,0
+ Asus ROG Zephyrus G14 GA402RJ,Asus,286000,260000,26000,AMD,Ryzen 9 6900HS,4,16,DDR4,1TB NVMe M.2,14,IPS,AMD Radeon RX 6700S,4-cell Li-ion,76,0
+ Zenbook S 13 OLED UP5302ZA,Asus,189200,176000,13200,Intel,Core i7-1260P,2,16,LPDDR5,512GB M.2 NVMe PCIe 4.0 Performance SSD,13,OLED,Intel Iris Xe Graphics,"4S1P, 4-cell Li-ion",67,0
+ OMEN 16-c0456AX,HP,258500,258500,0,AMD,Ryzen 9 5900H ,3,16,DDR4,1TB PCIe NVMe TLC M.2 SSD,16,IPS,NVIDIA GeForce RTX 3070 ,"6-cell,  Li-ion polymer",83,0
+ K3605ZF-MX041W,Asus,159500,150000,9500,Intel,Core i5-12500H,4,16,DDR4,512GB NVMe PCIe,16,OLED,Nvidia RTX 2050 Graphics,3-cell,63,0
+ ROG Zephyrus G15 GA503RW ,Asus,252810,235000,17810,AMD,Ryzen 9 6900HS,3,32,DDR5 ,1TB PCI-E M.2 NVME PCI-E G4 SSD,15,IPS,Nvidia RTX 3070 Ti ,4-cell Li-ion,90,0
+ ROG Strix G16 G614JI,Asus,263660,245000,18660,Intel,Core i7-13650HX ,2,16,DDR5,1TB PCIEG4,16,IPS,NVIDIA GeForce RTX 4060,4-cell Li-ion ,90,0
+ Predator Helios 16 PH16-71-70L4,Acer,233090,219900,13190,Intel,Core i7 13700HX,3,16,DDR5,1TB PCIe NVMe Gen 4 SSD,16,IPS,NVIDIA GeForce RTX 4060,4-cell Li-ion battery,90,0
+ ROG Strix G15 G513RM,Asus,229480,212000,17480,AMD,Ryzen 7 6800H,3,16,DDR5 ,512GB M.2 NVME PCIE 4.0 SSD,15,IPS,NVIDIA GeForce RTX 3060,4-cell Li-ion,90,0
+ ROG Strix G16 G614JV,Asus,252810,235000,17810,Intel,Core i7-13650HX ,2,16,DDR5,1TB PCIEG4,16,IPS,NVIDIA GeForce RTX 4060,4-cell Li-ion ,90,0
+ ROG Strix G15 G713RM,Asus,240330,222000,18330,AMD,Ryzen 7 6800H,3,16,DDR5 ,512GB M.2 NVME PCIE 4.0 SSD,17,IPS,NVIDIA GeForce RTX 3060,4-cell Li-ion,90,0
+ Legion 5 Pro 16ARH7H,Lenovo,217800,217800,0,AMD,Ryzen 7 6800H,3,16,DDR5,1TB SSD M.2 2280 PCIe 4.0x4 NVMe,16,IPS,NVIDIA GeForce RTX 3070,,80,0
+ Zero,Thunderobot,213400,199000,14400,Intel,Core i9-12900H,2,16,DDR4,512GB M.2 NVMe PCIe 4.0 SSD,16,LED,NVIDIA GeForce RTX 3060, 3-cell Li-Polymer,63,0
+ ZenBook 14X OLED UX5401EA,Asus,166590,157000,9590,Intel,Core i7-1165G7,2,16,LPDDR4X,512GB M.2 NVMe PCIe 3.0 G4 SSD,14,OLED ,Intel Iris Xe , 3-cell Li-ion,63,0
+ ROG Strix G16 G614JU,Asus,214500,199900,14600,Intel,Core i7-13650HX ,2,16,DDR5,1TB PCIEG4,16,IPS,NVIDIA GeForce RTX 4050,4-cell Li-ion ,90,0
+ ZenBook S 13 OLED UX5304VA,Asus,205610,189900,15710,Intel,Core i7 1355U,5,16,LPDDR5,1TB M.2 NVMe PCIe 4.0 Performance SSD,13,OLED,Intel Iris Xe Graphics,"2S2P, 4-cell Li-ion",63,0
+ ROG STRIX G15 G513IM,Asus,205700,187000,18700,AMD,Ryzen 7 4800H ,2,16,DDR4 ,512GB M.2 NVMe PCIe 3.0 SSD,15,IPS,NVIDIA GeForce RTX 3060, 4-cell Li-ion,90,0
+ ENVY 15-ep1890TX,HP,200510,185000,15510,,,,,, ,,,,,,0
+ UX5304VA-NQ142WS,Asus,203500,189900,13600,Intel,Intel Core i7-1355U,1,16,LPDDR5,1TB NVMe PCIe,13,OLED,Intel Iris X Graphics,4 Cell,63,0
+ TUF Gaming A15 FA507XV,Asus,192500,179900,12600,AMD,Ryzen 9 7940HS,5,8,DDR5,512GB M.2 NVMe PCIe 3.0 SSD,15,LED,NVIDIA GeForce RTX 4060,"4S1P, 4-cell Li-ion",90,0
+ Vivobook S 16 Flip OLED TN3604YA,Asus,151250,142900,8350,AMD,Ryzen 7 7730U,4,16,DDR4,512GB  M.2 NVMe PCIe 3.0 SSD,16,,AMD Radeon Vega 7 Graphics,3-cell Li-ion,50,0
+  X1504VA-NJ263W,Asus,121000,114000,7000,Intel, Intel Core i7-1355U,1,16,DDR4,512GB NVMe PCIe,15,LED ,Intel Iris X Graphics,3 Cell,42,0
+ G5 KE,GIGABYTE,157870,146000,11870,Intel ,Core i5-12500H,4,8,DDR4 ,512GB SSD M.2 NVMe PCIe Gen4 SSD,15,IPS,NVIDIA GeForce RTX 3060,Li-ion,54,0
+ MacBook Pro 16-Inch Space Gray 2021,Apple,0,0,0,,,,,, ,,,,,,0
+ Vivobook Pro 15 OLED M3500QC,Asus,155650,144500,11150,AMD,Ryzen 7 5800H,4,16,DDR4,512GB M.2 NVMe PCIe 3.0 SSD,15,FHD OLED,Nvidia RTX 3050 Graphics,"3 Cell, Li-ion",63,0
+ TM420UA-EC046,Asus,103400,97000,6400,AMD, AMD Ryzen 7 5700U,1,8,DDR4,512GB M.2 NVMe PCIe 3.0 SSD,14,IPS,AMD Radeon Graphics,3-cell,42,0
+ Vector GP66 12UE,MSI,0,0,0,Intel ,Core i7-12700H,3,16,DDR4,1TB  NVMe PCIe Gen4 SSD,15,IPS,NVIDIA GeForce RTX 3060,4-Cell integrated,65,0
+ Vector GP66 12UEO,MSI,0,0,0,Intel ,Core i7-12700H,3,16,DDR5,1TB  NVMe PCIe Gen4 SSD,15,IPS,NVIDIA GeForce RTX 3060,4-Cell,65,0
+ Zenbook Pro 14 Duo OLED UX8402ZE-M3050W ,Asus,291870,269990,21880,Intel,i7-12700H,2,16,LPDDR5,512GB M.2 NVMe PCIe 4.0 Performance SSD,14,OLED,Intel Iris Xe Graphics,"4S1P, 4-cell Li-ion",76,0
+ Surface Pro X,Microsoft,0,0,0,,,,,, ,,,,,,0
+ Stealth 16 Mercedes-AMG A13VF,MSI,376200,349900,26300,Intel ,Core i9-13900H,2,32,DDR5,1TB NVMe PCIe Gen4x4 SSD,16,OLED,NVIDIA GeForce RTX 4060,4-Cell,99,0
+ IdeaPad Flex 5i,Lenovo,160580,149000,11580,Intel,Core i7-1255U,4,16,DDR4,512GB  M.2 2242 PCIe 4.0x4 NVMe,14,LED,Intel Iris Xe Graphics,,52,0
+ Vivobook S 16X OLED M5602RA,Asus,160580,149000,11580,AMD,Ryzen 7 6800H,3,16,DDR5,512GB  M.2 NVMe PCIe 3.0 SSD,16,,AMD Radeon Graphics,3-cell Li-ion,70,0
+ GF63 Thin 11UC,MSI,117180,108500,8680,Intel,Core i5-11400H,2,8,DDR4,512GB  NVMe PCIe Gen3x4 SSD,15,IPS-Level,NVIDIA GeForce RTX 3050 Max-Q,3 cell Polymer,51,0
+ Sword 17 A12VE,MSI,246300,228000,18300,Intel ,Core i7-12650H,2,16,DDR5,1TB NVMe PCIe Gen4x4 SSD,17,IPS,NVIDIA GeForce RTX 4050,3-Cell,53,0
+ Modern 15 A5M,MSI,86350,81000,5350,AMD,Ryzen 7 5700U,1,8,DDR4 ,512GB NVMe SSD,15,IPS ,AMD Radeon Graphics,3-Cell,53,0
+ Modern 14 C11M,MSI,59460,55000,4460,Intel ,Core i3-1115G4,3,8,DDR4,512GB NVMe PCIe Gen3x4 SSD,14,LED,Intel Iris Xe Graphics,3 cell,39,0
+ IdeaPad 3,Lenovo,86480,79900,6580,AMD,Ryzen 7 5700U,1,8,DDR4,512GB SSD NVMe PCIe,15,LED,AMD Radeon Graphics,3 Cell Li-Polymer,38,0
+ MateBook B3-420,HUAWEI,81420,81420,0,Intel,Core i5-1135G7,2,8,DDR4,512GB NVMe PCle SSD,14,IPS,Intel Iris Xe Graphics,Lithium polymer,56,0
+ Aspire 3 A315-59-50J9 ,Acer,80070,74000,6070,Intel,Core i5 1235U,4,8,DDR4,512 GB SSD,15,IPS,Intel Iris Xe Graphics,3-cell Li-ion,40,0
+ Aspire 3 A315-59-5031,Acer,80070,74000,6070,Intel,Core i5 1235U,4,8,DDR4,512 GB SSD,15,IPS,Intel Iris Xe Graphics,3-cell Li-ion,40,0
+ IdeaPad Slim 3i 15ITL6,Lenovo,78650,73500,5150,Intel,Core i5-1155G7,2,16,DDR4,512GB SSD,15,TN,Iris Xe Graphics,,45,0
+ 15s-eq3619AU,HP,79210,73200,6010,AMD,Ryzen 5 5625U,2,8,DDR4,512 GB PCIe NVMe M.2 SSD,15,IPS LED,AMD Radeon Graphics,3 Cell  Li-ion Battery,41,0
+ Latitude 3420,Dell,79000,76000,3000,Intel , Core i5-1145G7,2,8,DDR4 ,512GB  M.2 PCIe NVMe SSD,14,,Intel Iris Xe Graphics,3 Cell ExpressCharge Capable Battery,42,0
+ Aspire 3 A315-59-57VA,Acer,80070,74000,6070,Intel,Core i5 1235U,4,8,DDR4,512 GB SSD,15,IPS,Intel Iris Xe Graphics,3-cell Li-ion,40,0
