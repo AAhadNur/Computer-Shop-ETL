@@ -20,5 +20,33 @@ logs/
 # PostgreSQL data
 *.sql
 
+# Airflow log files
+*.log
+
+# Airflow SQLite database
+airflow.db
+airflow.db-journal
+
+# Airflow web server pid file
+webserver.pid
+
+# Airflow scheduler pid file
+scheduler.pid
+
+# Airflow worker pid files
+*.pid
+
+# Airflow logs directory
+logs/
+
+# Airflow temporary files
+tmp/
+
+# Airflow .cache directory
+.cache/
+
+# Airflow .pytest_cache directory (if you use pytest for testing)
+.pytest_cache/
 
 test_transform.ipynb
+Test_Airflow/
