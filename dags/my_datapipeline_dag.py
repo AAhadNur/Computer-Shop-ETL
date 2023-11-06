@@ -50,7 +50,7 @@ default_args = {
     'start_date': datetime(2023, 11, 11),
     'depends_on_past': False,
     'retries': 3,
-    'retry_delay': timedelta(minutes=15),
+    'retry_delay': timedelta(minutes=1),
     'max_active_runs': 1,
     'catchup': False,
 }

@@ -27,6 +27,7 @@ def insert_data_from_json(json_filename):
         data = json.load(json_file)
 
     session = Session()
+    print("Loading data into postgreSQL database .......")
 
     try:
         for item in data:
@@ -52,6 +53,7 @@ def insert_data_from_json(json_filename):
                 existing_data.battery_type = item['Battery Type'],
                 existing_data.battery_capacity = item['Battery Capacity (WHr)'],
                 existing_data.reviews = item['Number of Reviews'],
+                print(existing_data)
 
             else:
                 laptop = Laptop(
@@ -74,6 +76,7 @@ def insert_data_from_json(json_filename):
                     reviews=item['Number of Reviews'],
                 )
                 session.add(laptop)
+                print(laptop)
 
         session.commit()
     except Exception as e:

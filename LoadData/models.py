@@ -70,7 +70,7 @@ class Laptop(Base):
     reviews = Column(Integer, nullable=True)
 
     def __str__(self):
-        return self.model
+        return str(self.model)
 
 
 Base.metadata.create_all(engine)

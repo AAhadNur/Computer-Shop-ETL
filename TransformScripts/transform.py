@@ -48,14 +48,19 @@ def transform():
     rdf = ryans_data_transform(columns=columns, df=df1)
     sdf = startech_data_transform(columns=columns, df=df2)
 
+    print("Concating Data")
+    for i in range(12):
+        print(".")
+
     df = pd.concat([rdf, sdf]).reset_index(drop=True)
 
     df = df.drop_duplicates(subset=['Model'], keep='first')
 
-    # df.to_json('data.json', orient='records')
+    df.to_json('data.json', orient='records')
 
-    df.to_csv('data.csv', index=False)
+    # df.to_csv('data.csv', index=False)
 
 
 if __name__ == "__main__":
     transform()
+    print("Transformation Complete")

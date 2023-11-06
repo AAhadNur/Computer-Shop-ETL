@@ -29,6 +29,8 @@ from number_extraction import extract_number, extract_currency
 
 def ryans_data_transform(columns, df):
 
+    print("Transforming and Cleaning Ryans Computer Data .....")
+
     result_df = pd.DataFrame(columns=columns)
 
     for i in range(len(df)):
@@ -71,6 +73,7 @@ def ryans_data_transform(columns, df):
         reviews = extract_number(reviews)
 
         if reviews == None:
+            print(".")
             reviews = 0
 
         battery_capacity = extract_number(battery_capacity)
