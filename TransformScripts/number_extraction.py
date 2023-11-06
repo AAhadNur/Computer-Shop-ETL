@@ -1,3 +1,22 @@
+"""
+Utility Functions for Extracting and Manipulating Prices
+
+This Python file contains utility functions for extracting and manipulating price-related information.
+The functions can be used to extract numerical values from strings, convert currency formats, and calculate
+discounts between regular and special prices.
+
+Functions:
+- extract_number(value): Extracts numerical values from a given string and returns an integer.
+- extract_currency(regular_price, special_price): Extracts and converts regular and special prices from string
+  format to integers. Calculates the discount amount if both prices are available.
+
+Usage:
+You can import and use these functions in your Python scripts to work with price-related data and convert
+currency formats to numeric values.
+
+Author: [Abdul Ahad]
+"""
+
 import re
 
 

@@ -3,6 +3,24 @@ from ExtractingLaptopData.items import RyansLaptopItem
 
 
 class RyansSpider(scrapy.Spider):
+    """
+    Scrapy Spider for Ryans Computers Website
+
+    This spider is designed to scrape laptop information from the Ryans Computers website.
+    It starts from the initial URL and follows links to individual laptop product pages,
+    extracting various details such as title, prices, specifications, and reviews.
+
+    Spider Attributes:
+    - name (str): The name of the spider.
+    - allowed_domains (list): A list of allowed domain names for crawling.
+    - start_urls (list): A list of starting URLs for the spider.
+
+    Methods:
+    - parse(response): The main parsing method that extracts laptop product URLs and navigates to them.
+    - parse_laptop_page(response): Parses the laptop product page and extracts laptop details.
+
+    Author: [Abdul Ahad]
+    """
     name = "ryans"
     allowed_domains = ["www.ryanscomputers.com"]
     start_urls = [
@@ -30,12 +48,13 @@ class RyansSpider(scrapy.Spider):
             'div.details-all-block span.rp-block ::text').get()
         special_price = response.css(
             'div.details-all-block span.sp-block ::text').get()
-        
-        specification_content = response.css('div.justify-content-center div.table-hr-remove')
+
+        specification_content = response.css(
+            'div.justify-content-center div.table-hr-remove')
 
         block_title_list = []
         block_content_list = []
-        #response.css('div.justify-content-center span.att-value::text')
+        # response.css('div.justify-content-center span.att-value::text')
 
         for i in specification_content:
             if i.css('span::attr(class)').get() == 'att-title context':
@@ -57,7 +76,7 @@ class RyansSpider(scrapy.Spider):
         battery = ''
         battery_capacity = ''
         battery_type = ''
-        
+
         for i in range(len(block_title_list)):
             if 'Brand' in block_title_list[i] and len(block_title_list[i]) < 7:
                 brand = block_content_list[i]

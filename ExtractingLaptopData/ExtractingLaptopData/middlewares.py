@@ -102,9 +102,37 @@ class ExtractinglaptopdataDownloaderMiddleware:
         spider.logger.info("Spider opened: %s" % spider.name)
 
 
-
 class ScrapeOpsFakeBrowserHeaderAgentMiddleware:
+    """
+    Scrapy Middleware for Fake Browser Headers from ScrapeOps
 
+    This middleware class is designed to enable the use of fake browser headers provided by ScrapeOps
+    for web scraping. It retrieves a list of fake browser headers from the ScrapeOps API and assigns
+    a random header to each outgoing request. This helps in disguising web scraping activity to appear
+    more like legitimate browser requests.
+
+    Constructor Arguments:
+    - settings (dict): A dictionary of Scrapy settings, including API key and configuration parameters.
+
+    Attributes:
+    - scrapeops_api_key (str): The API key for ScrapeOps authentication.
+    - scrapeops_endpoint (str): The ScrapeOps API endpoint for retrieving fake browser headers.
+    - scrapeops_fake_browser_headers_active (bool): Flag indicating whether fake browser headers are enabled.
+    - scrapeops_num_results (int): The number of fake browser headers to retrieve (optional).
+    - headers_list (list): A list of fake browser headers retrieved from the API.
+
+    Methods:
+    - _get_headers_list(): Retrieves a list of fake headers from the ScrapeOps API.
+    - _get_random_browser_header(): Selects a random header from the list for each request.
+    - _scrapeops_fake_browser_headers_enabled(): Checks if fake browser headers are enabled.
+    - process_request(request, spider): Assigns a random fake browser header to the outgoing request.
+
+    Usage:
+    Add this middleware to your Scrapy project settings and configure it with your ScrapeOps API key
+    to enable fake browser headers for web scraping.
+
+    Author: [Abdul Ahad]
+    """
     @classmethod
     def from_crawler(cls, crawler):
         return cls(crawler.settings)

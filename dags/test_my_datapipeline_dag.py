@@ -1,3 +1,25 @@
+"""
+Unit Tests for My Data Pipeline DAG
+
+This Python script contains a series of unit tests to ensure the correctness of the 'my_datapipeline_dag'
+defined in an Apache Airflow DAG. These tests verify the loading of the DAG, the presence of specific tasks,
+and the correct task dependencies.
+
+Test Cases:
+1. test_dag_loaded:
+   - Verifies that the 'my_datapipeline_dag' is loaded in the DagBag.
+
+2. test_tasks:
+   - Checks if specific tasks exist in the DAG.
+   - Compares the actual task IDs in the DAG to the expected task IDs.
+
+3. test_dependencies:
+   - Examines the task dependencies of the 'extract_data' task.
+   - Validates that it has the expected upstream tasks, 'crawl_ryans' and 'crawl_startech'.
+
+Author: [Abdul Ahad]
+"""
+
 import unittest
 from airflow.models import DagBag
 

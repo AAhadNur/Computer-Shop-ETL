@@ -1,3 +1,22 @@
+"""
+Insert Data from JSON into PostgreSQL Database
+
+This Python script reads data from a JSON file and inserts it into a PostgreSQL database. It uses the SQLAlchemy model
+'Laptop' to represent the data and provides the necessary database operations. If data for a laptop model already exists
+in the database, it updates the existing record; otherwise, it inserts a new record.
+
+Attributes:
+- json_filename (str): Path to the JSON file containing laptop data to be inserted into the database.
+
+Usage:
+1. Ensure that the PostgreSQL database connection settings are correctly configured.
+2. Create a JSON file with laptop data following the expected format.
+3. Run this script to insert the updated data into the database.
+4. It will update or insert records based on the presence of data in the database.
+
+Author: [Abdul Ahad]
+"""
+
 
 from models import Laptop, Session
 import json

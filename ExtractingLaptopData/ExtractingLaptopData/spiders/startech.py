@@ -3,6 +3,25 @@ from ExtractingLaptopData.items import StartechLaptopItem
 
 
 class StartechSpider(scrapy.Spider):
+    """
+    Scrapy Spider for Startech Computers Website
+
+    This spider is designed to scrape laptop information from the Startech Computers website.
+    It starts from the initial URL and follows links to individual laptop product pages,
+    extracting various details such as title, prices, specifications, and reviews.
+
+    Spider Attributes:
+    - name (str): The name of the spider.
+    - allowed_domains (list): A list of allowed domain names for crawling.
+    - start_urls (list): A list of starting URLs for the spider.
+    - page_count (int): A counter to limit the number of pages crawled.
+
+    Methods:
+    - parse(response): The main parsing method that extracts laptop product URLs and navigates to them.
+    - parse_laptop_page(response): Parses the laptop product page and extracts laptop details.
+
+    Author: [Abdul Ahad]
+    """
     name = "startech"
     allowed_domains = ["www.startech.com.bd"]
     start_urls = ["https://www.startech.com.bd/laptop-notebook/laptop"]
@@ -12,9 +31,10 @@ class StartechSpider(scrapy.Spider):
         laptop_list = response.css('div.p-items-wrap div.p-item-inner')
 
         for laptop in laptop_list:
-            laptop_url = laptop.css('div.p-item-details h4.p-item-name a ::attr(href)').get()
+            laptop_url = laptop.css(
+                'div.p-item-details h4.p-item-name a ::attr(href)').get()
             yield response.follow(laptop_url, callback=self.parse_laptop_page)
-        
+
         ls = response.css('ul.pagination li')
 
         if ls[-1].css('a::text').get() == 'NEXT':
@@ -24,18 +44,23 @@ class StartechSpider(scrapy.Spider):
                 self.page_count += 1
                 yield response.follow(next_page_url, callback=self.parse)
 
-
     def parse_laptop_page(self, response):
-        
-        laptop = StartechLaptopItem()
-        
-        laptop_title = response.css('div.product-short-info h1.product-name ::text').get()
-        reviews = response.css('section.review div.title-n-action h2::text').get()
-        regular_price = response.css('div.product-short-info table.product-info-table td.product-regular-price::text').get()
-        special_price = response.css('div.product-short-info table.product-info-table td.product-price::text').get()
-        brand = response.css('div.product-short-info table.product-info-table td.product-brand::text').get()
 
-        specification_content = response.css('section#specification table.data-table tr')
+        laptop = StartechLaptopItem()
+
+        laptop_title = response.css(
+            'div.product-short-info h1.product-name ::text').get()
+        reviews = response.css(
+            'section.review div.title-n-action h2::text').get()
+        regular_price = response.css(
+            'div.product-short-info table.product-info-table td.product-regular-price::text').get()
+        special_price = response.css(
+            'div.product-short-info table.product-info-table td.product-price::text').get()
+        brand = response.css(
+            'div.product-short-info table.product-info-table td.product-brand::text').get()
+
+        specification_content = response.css(
+            'section#specification table.data-table tr')
 
         block_title_list = []
         block_content_list = []
@@ -71,7 +96,7 @@ class StartechSpider(scrapy.Spider):
 
             if 'Processor' in block_title_list[i] and 'Brand' in block_title_list[i]:
                 processor_brand = block_content_list[i]
-            
+
             elif 'Processor' in block_title_list[i] and 'Model' in block_title_list[i]:
                 processor_model = block_content_list[i]
 
@@ -108,7 +133,6 @@ class StartechSpider(scrapy.Spider):
             elif 'Battery' in block_title_list[i] and 'Capacity' in block_title_list[i]:
                 battery_capacity = block_content_list[i]
 
-
         laptop['title'] = laptop_title
         laptop['brand'] = brand
         laptop['model'] = model
@@ -130,9 +154,3 @@ class StartechSpider(scrapy.Spider):
         laptop['reviews'] = reviews
 
         yield laptop
-
-
-            
-
-
-

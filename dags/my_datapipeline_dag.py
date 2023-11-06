@@ -1,3 +1,41 @@
+
+"""
+Airflow DAG for an ETL Data Pipeline
+
+This Python script defines an Apache Airflow Directed Acyclic Graph (DAG) for a data pipeline
+that performs ETL (Extract, Transform, Load) operations. It uses various Airflow operators
+and Python functions to carry out these tasks.
+
+DAG Information:
+- Name: my_datapipeline_dag
+- Description: An example DAG with detailed default_args for an ETL data pipeline.
+- Schedule: Runs every 7 days.
+- Tags: Scrapy, Airflow, ETL, PostgreSQL
+
+DAG Tasks:
+- 'crawl_ryans' and 'crawl_startech' are BashOperators that execute Scrapy spiders.
+- 'extract_data', 'transform_data', and 'load_data' are PythonOperators that execute custom Python functions.
+
+Dependencies:
+- 'crawl_ryans' and 'crawl_startech' run first, followed by 'extract_data'.
+- 'extract_data' is followed by 'transform_data', and 'transform_data' is followed by 'load_data'.
+
+Additional Information:
+- The 'extract_data' function is a placeholder and should be implemented to perform data extraction.
+- The 'transform_data' function runs a Python script to transform data located in the 'TransformScripts' directory.
+- The 'load_data' function runs a Python script to load data located in the 'LoadData' directory.
+
+Note: Make sure to customize the paths and scripts as needed for your specific project.
+
+Author: Abdul Ahad
+Start Date: November 11, 2023
+Depends on Past Runs: False
+Retries: 3
+Retry Delay: 15 minutes
+Max Active Runs: 1
+Catchup: False
+"""
+
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
 from airflow.operators.bash_operator import BashOperator
