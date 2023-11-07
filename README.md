@@ -12,7 +12,7 @@ data manipulation with Pandas and regular expression, and data storage in Postgr
 
 ## Architecture
 
-![Architecture](https://github.com/AAhadNur/Computer-Shop-ETL/resources/media/Laptop_Shop_Project_Architecture.png)
+![Architecture](https://github.com/AAhadNur/Computer-Shop-ETL/blob/main/resources/media/Laptop_Shop_Project_Architecture.png)
 
 The project is organized into several key components:
 
