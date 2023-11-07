@@ -10,6 +10,18 @@
 The project involves scraping laptop data from 2 websites ( ryans.com and startech.com ) with Scrapy,
 data manipulation with Pandas and regular expression, and data storage in PostgreSQL using SQLAlchemy.Powered by Apache Airflow, it streamlines the data pipeline for seamless insights.
 
+## Contents
+
+- [Project Architecture](#architecture)
+- [Installation Guide](#installation-guide)
+  - [Scrapy Configuration](#scrapy-settings-and-proxy-rotation-middleware-with-scrapeops)
+  - [Database Configuration](#configure-your-database-settings-in-loaddatadbsettingspy)
+  - [Apache Airflow Configuration](#apache-airflow-configuration)
+- [Contribution](#contribution)
+- [Expectation](#expectations)
+- [Future Works](#future-work)
+- [Project Demo Video](#project-video)
+
 ## Architecture
 
 ![Architecture](https://github.com/AAhadNur/Computer-Shop-ETL/blob/main/resources/media/Laptop_Shop_Project_Architecture.png)
